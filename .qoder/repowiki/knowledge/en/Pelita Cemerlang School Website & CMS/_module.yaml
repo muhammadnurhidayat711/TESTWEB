@@ -1,0 +1,252 @@
+schema_version: 1
+module_path: ""
+title: Pelita Cemerlang School Website & CMS
+scope:
+    - src/
+    - scripts/
+    - package.json
+    - next.config.js
+    - tsconfig.json
+    - tailwind.config.ts
+    - postcss.config.js
+    - .gitignore
+    - next-env.d.ts
+    - .claude\settings.local.json
+    - .env
+    - .qoder\repowiki\en\content\API Reference\API Reference.md
+    - .qoder\repowiki\en\content\API Reference\Authentication API.md
+    - .qoder\repowiki\en\content\API Reference\Content Management API.md
+    - .qoder\repowiki\en\content\API Reference\File Upload API.md
+    - .qoder\repowiki\en\content\API Reference\Social Media Integration API.md
+    - .qoder\repowiki\en\content\Architecture & Design\Architecture & Design.md
+    - .qoder\repowiki\en\content\Architecture & Design\Component Hierarchy & Provider Pattern.md
+    - .qoder\repowiki\en\content\Architecture & Design\Content Management Architecture.md
+    - .qoder\repowiki\en\content\Architecture & Design\Data Flow & State Management Patterns.md
+    - .qoder\repowiki\en\content\Architecture & Design\Routing System & File-based Architecture.md
+    - .qoder\repowiki\en\content\Components & UI Library\Animation & Visual Components.md
+    - .qoder\repowiki\en\content\Components & UI Library\Components & UI Library.md
+    - .qoder\repowiki\en\content\Components & UI Library\Layout Components.md
+    - .qoder\repowiki\en\content\Components & UI Library\Provider Components.md
+    - .qoder\repowiki\en\content\Components & UI Library\Specialized Functional Components.md
+    - .qoder\repowiki\en\content\Contributing & Development.md
+    - .qoder\repowiki\en\content\Data Models & Types\Academic Content Models.md
+    - .qoder\repowiki\en\content\Data Models & Types\Administrative Data Types.md
+    - .qoder\repowiki\en\content\Data Models & Types\Content Normalization & Validation.md
+    - .qoder\repowiki\en\content\Data Models & Types\Core Content Types.md
+    - .qoder\repowiki\en\content\Data Models & Types\Data Models & Types.md
+    - .qoder\repowiki\en\content\Data Models & Types\Media Content Structures.md
+    - .qoder\repowiki\en\content\Deployment & Production\Build Configuration.md
+    - .qoder\repowiki\en\content\Deployment & Production\Deployment & Production.md
+    - .qoder\repowiki\en\content\Deployment & Production\Deployment Automation.md
+    - .qoder\repowiki\en\content\Deployment & Production\Production Monitoring & Maintenance.md
+    - .qoder\repowiki\en\content\Deployment & Production\Server Setup & Configuration.md
+    - .qoder\repowiki\en\content\Features & Functionality\Academic Programs Management.md
+    - .qoder\repowiki\en\content\Features & Functionality\Achievements and Recognition System.md
+    - .qoder\repowiki\en\content\Features & Functionality\Campus Facilities Showcase.md
+    - .qoder\repowiki\en\content\Features & Functionality\Content Management System\Admin Authentication & Access Control.md
+    - .qoder\repowiki\en\content\Features & Functionality\Content Management System\Content Editing Interface\Achievements & Testimonials Management.md
+    - .qoder\repowiki\en\content\Features & Functionality\Content Management System\Content Editing Interface\Alumni Destinations Management.md
+    - .qoder\repowiki\en\content\Features & Functionality\Content Management System\Content Editing Interface\Content Editing Interface.md
+    - .qoder\repowiki\en\content\Features & Functionality\Content Management System\Content Editing Interface\Facilities & Career Openings Management.md
+    - .qoder\repowiki\en\content\Features & Functionality\Content Management System\Content Editing Interface\Social Media Integration Management.md
+    - .qoder\repowiki\en\content\Features & Functionality\Content Management System\Content Management System.md
+    - .qoder\repowiki\en\content\Features & Functionality\Content Management System\Content Validation & Persistence.md
+    - .qoder\repowiki\en\content\Features & Functionality\Content Management System\File Upload & Media Management.md
+    - .qoder\repowiki\en\content\Features & Functionality\Features & Functionality.md
+    - .qoder\repowiki\en\content\Features & Functionality\Multimedia Gallery System.md
+    - .qoder\repowiki\en\content\Features & Functionality\News and Events Management.md
+    - .qoder\repowiki\en\content\Features & Functionality\Social Media Integration.md
+    - .qoder\repowiki\en\content\Getting Started.md
+    - .qoder\repowiki\en\content\Internationalization & Localization\Content Localization.md
+    - .qoder\repowiki\en\content\Internationalization & Localization\Cultural Adaptations & Locale-Specific Features.md
+    - .qoder\repowiki\en\content\Internationalization & Localization\Internationalization & Localization.md
+    - .qoder\repowiki\en\content\Internationalization & Localization\Language Routing System.md
+    - .qoder\repowiki\en\content\Internationalization & Localization\Translation Management.md
+    - .qoder\repowiki\en\content\Project Overview.md
+    - .qoder\repowiki\en\content\Styling & Theming\Component Styling Patterns.md
+    - .qoder\repowiki\en\content\Styling & Theming\Design Tokens & Color System.md
+    - .qoder\repowiki\en\content\Styling & Theming\Responsive Design & Breakpoints.md
+    - .qoder\repowiki\en\content\Styling & Theming\Styling & Theming.md
+    - .qoder\repowiki\en\content\Styling & Theming\Tailwind CSS Configuration.md
+    - .qoder\repowiki\en\content\Styling & Theming\Typography System.md
+    - .qoder\repowiki\en\meta\repowiki-metadata.json
+    - .qoder\repowiki\knowledge\en\Pelita Cemerlang School Website & CMS\_module.yaml
+    - .qoder\repowiki\knowledge\en\Pelita Cemerlang School Website & CMS\architecture_design.md
+    - .qoder\repowiki\knowledge\en\Pelita Cemerlang School Website & CMS\coding_conventions.md
+    - .qoder\repowiki\knowledge\en\Pelita Cemerlang School Website & CMS\overview.md
+    - .qoder\repowiki\knowledge\en\Pelita Cemerlang School Website & CMS\tech_stack.md
+    - .qoder\repowiki\knowledge\en\Pelita Cemerlang School Website & CMS\unique_setup_and_commands.md
+    - .qoder\repowiki\knowledge\en\_index.yaml
+    - TESTWEB.zip
+    - content\site-content.json
+    - deploy\.env
+    - deploy\content\site-content.json
+    - deploy\package.json
+    - deploy\public\images\logo.png
+    - deploy\server.js
+    - dev-3001.err.log
+    - dev-3001.log
+    - dev-codex.err.log
+    - dev-codex.log
+    - docs\superpowers\plans\2026-05-18-website-redesign-plan.md
+    - docs\superpowers\specs\2026-05-13-pelita-cemerlang-school-design.md
+    - docs\superpowers\specs\2026-05-18-website-redesign-design.md
+    - package-lock.json
+    - public\favicon.ico
+    - public\images\hero-g.jpg
+    - public\images\logo.png
+    - public\uploads\content\1779415058883-de3bf010-5193-4796-8f86-2090311059f6.png
+    - public\uploads\content\1779415246630-35db3cab-2eaf-4231-9f8d-7c2d39f41b92.jpg
+    - public\uploads\content\1779415315605-5a2d672d-9157-4a9d-9ab4-fde068e2b421.jpg
+    - public\uploads\content\1779415649653-6d7db11e-a521-4b7e-8aba-6e6f222e69e3.png
+    - public\uploads\content\1779417391164-31666090-fe93-47df-9eb4-a0a355688031.png
+    - public\uploads\content\1779432026126-17149b61-74fd-435f-86e2-8aa7834021e6.png
+    - public\uploads\content\1779432414682-0759df46-e037-48bb-b78a-8d955aa30ddf.png
+    - public\uploads\content\1779432732871-4901ecce-8284-4fd2-b0c4-a3d0201a1761.png
+    - public\uploads\content\1779437180433-c6b0f859-1b67-4863-a101-4c04f12da3c1.png
+    - public\uploads\content\1779438997055-c05afff6-259e-4c17-80b5-261184a17abe.png
+    - public\uploads\content\1779439031185-cb534713-c11e-4506-9ce0-5f95cb2c06f4.png
+    - public\uploads\content\1779505966612-c2a2045f-0182-4456-af25-36b9f94c1d0a.jpg
+    - public\uploads\content\1779690295670-89fa50d4-2a7e-4ee5-ad9a-f97f0842716e.png
+    - public\uploads\content\1779690346817-ba15d8e0-8611-4fca-aeaf-20136d436c38.jpg
+    - public\uploads\content\1779690689824-5b5b7465-8da2-4620-92db-9f902e63134e.png
+    - public\uploads\content\1779694912996-7cffea54-6bd3-4e2c-8e8e-701d602c24b5.png
+    - public\uploads\content\1779695049766-e88f75ca-728b-4a0f-83b6-86fa3c462d70.png
+    - public\uploads\content\1779695447985-f6a6b259-a41c-40c9-b223-c3dc339336b6.png
+    - public\uploads\content\1779695659374-1612eb5f-f674-4ebd-a31e-cb792a59a4dc.png
+    - public\uploads\content\1779695668394-f753c51a-5cc6-433f-bf66-5ecf17899d4c.png
+    - public\uploads\content\1779695857467-3ecc4ba7-77b9-4f63-9d07-cca0d7b18ade.png
+    - public\uploads\content\1779764081852-632b2919-fd89-4c7f-8854-443d3c956d5c.png
+    - public\uploads\content\1779766988009-532a2ff4-af7e-41ed-b28f-c0f72b952862.jpg
+    - public\uploads\content\1779767256661-5ccc4b9f-3d2f-4ded-aaa8-c4e4d0a38d28.jpg
+    - public\uploads\content\1779774325501-79a514c5-ff21-4792-9c90-8d760b913e4b.jpg
+    - public\uploads\content\1779775099470-c74c3796-8035-4eb8-8411-29380cc655a3.jpg
+    - public\uploads\content\1779775099506-886df874-f081-44ae-86f8-354b88032d2d.jpg
+    - public\uploads\content\1779776504172-4b9116f5-9851-4e6d-a97e-7186b9096e0a.jpg
+    - public\uploads\content\1779776522895-45a742a3-d041-46d2-9d40-64f15654c416.jpg
+    - public\uploads\content\1779776528511-1290620d-25be-431f-9dcd-de0f1a17badc.jpg
+    - public\uploads\content\1779776533008-7ed93ac3-909d-4ff5-a4f2-04ca48aac47f.jpg
+    - public\uploads\content\1779776755909-f2e166ef-3f31-4355-8bb0-72df607b8b42.jpg
+    - public\uploads\content\1779777161016-c4870e44-1864-4416-ab51-9431b0658a83.jpg
+    - public\uploads\content\1779777450332-53ddc50f-e057-48c8-a132-9ac6915cbe7e.jpg
+    - public\uploads\content\1779777668738-ed8b6e90-8b2d-424a-86a2-d390c9377553.jpg
+    - public\uploads\content\1779777993445-1fbe2106-bbd2-41f3-827f-4f2e305feb8e.jpg
+    - public\uploads\content\1779778094410-e9fccb51-f02a-465c-ba3f-4473fd7b6f15.jpg
+    - public\uploads\content\1779778200013-e791268e-b47e-414e-9e29-9cca377552f0.jpg
+    - public\uploads\content\1779778375100-6b63e337-4c25-48fc-9620-0d862c6e1719.jpg
+    - public\uploads\content\1779778996934-0cb0476d-e00f-40f1-a43d-538f7434e2a7.jpg
+    - public\uploads\content\1779779044477-c800e88a-8fa7-409b-9e00-5699e4d1d9a9.jpg
+    - public\uploads\content\1779779438886-f7b00322-f24a-4344-8096-dfd8d3f79da7.png
+    - public\uploads\content\1779779688827-f934e003-f7bb-42f9-b014-1282ffc56f8c.jpg
+    - public\uploads\content\1779933101730-930befbe-6ce5-4397-b5d0-8a8403718457.png
+    - public\uploads\content\1779933977984-6adc1e21-2a4e-40e2-a3ac-a9bc5cd4d130.png
+    - public\uploads\content\1779936942344-4622f527-4d59-4276-8c70-546d12a95179.png
+    - public\uploads\content\1779947000741-41ea3066-3b9c-46ad-bae7-a9f68121bf2e.png
+    - public\uploads\content\1779947865266-17fcbe83-16ef-4e63-9504-a0b2e16d93b7.png
+    - public\uploads\content\1779947920476-5d4057cc-2bdc-4c46-b312-cf4d0e98564b.png
+    - public\uploads\content\1779948304119-9ca07459-0f6d-45ee-bbc5-33fa742a0e36.png
+    - public\uploads\content\1779953641494-7399c86e-d928-4441-acfd-833cb6ab7788.mp4
+    - public\uploads\content\1779954006721-be0408e1-c6a3-4aa2-85af-d38c8457bd87.mp4
+    - public\uploads\content\1779954139771-75da6c85-c4bf-430a-9335-c6c4520a4bb3.mp4
+    - public\uploads\content\1779954145568-06ea2f9f-4c50-49d0-9cb8-85c4ed58674e.mp4
+    - public\uploads\content\1780545097606-900ab763-3608-46bc-b597-faca571466ab.jpg
+    - public\uploads\content\1780547827602-9f2206f4-d7bc-46ab-9b0c-698f03f62452.jpg
+    - public\uploads\content\1780547854627-090b6a44-2721-4f13-b926-c20d05ae93fd.jpg
+    - public\uploads\content\1780558370931-a886e9fb-e5b7-4d93-883e-d8b1607a0219.jpg
+    - public\uploads\content\1780558430420-70a21c50-4663-4d27-95a0-4ec1b9c85210.jpg
+    - public\uploads\content\1780563397822-a3e84e57-4bd7-480a-8079-eb88c3fd0897.jpg
+    - public\uploads\content\1780563486722-f4014d50-7c28-4bdf-afcb-82c7e17470e5.jpg
+    - public\uploads\content\1780564134466-917739d1-36a0-46bc-a713-d37899551a33.jpg
+    - public\uploads\content\1780564189296-1b98acf9-78dd-45a1-a0ce-388a6f6e4a05.jpg
+    - public\uploads\content\1780564189664-2a9ae68b-4b1c-4b5f-9247-7c2ab514a66a.jpg
+    - public\uploads\content\1780564189856-e1221c2f-28a5-41d1-8c0b-3a5740ab798d.jpg
+    - public\uploads\content\1780886818670-cadadee4-00f3-46ed-bb3b-f3d0fd3e8140.webp
+    - public\uploads\content\1780886855007-d954d3d0-f89d-4384-993e-ac475656d68b.webp
+    - public\uploads\content\1780886869374-d5dc0455-4662-41c0-a948-27e7d209ba26.jpg
+    - public\uploads\content\1780887016737-ccf80cbd-9518-44b8-b0c4-bdcb9e57be1e.png
+    - public\uploads\content\1780887029868-8e15c141-9634-43c0-ab29-f8bbf5a94b6d.png
+    - public\uploads\content\1780890718076-2bc71839-2c98-41a3-a599-3bc752077caf.jpg
+    - public\uploads\content\1780890733117-c2f4c38d-779a-4c5b-b009-df960526bc44.jpg
+    - public\uploads\content\1780890741655-c788c463-8e67-40e7-9e6f-6f9f76be05ef.jpg
+    - public\uploads\content\1780890967095-e75de185-5f73-4dfd-bec5-31b5d8b6a7f8.jpg
+    - public\uploads\content\1780890979279-f115fc38-dd94-43ae-9346-311e9afda892.jpg
+    - public\uploads\content\1780891316622-4426b760-987b-4545-8067-13955b316b62.jpg
+    - public\uploads\content\1780891392684-44a5a8b6-23a5-4878-a3a7-1a07a544fd0f.jpg
+    - public\uploads\content\1780891658085-35319b8a-fc91-418f-ac93-185a224f99af.jpg
+    - public\uploads\content\1780892313829-56202cf7-24e0-4a73-a9e3-381b2e005c73.jpg
+    - public\uploads\content\1780892363436-1a593b0c-b580-4e77-9f29-149a2a6d3099.jpg
+    - public\uploads\content\1780892368392-098b847c-3b0a-43ad-ad4f-300a4cc4c99f.jpg
+    - public\uploads\content\1780892537372-ae05db26-0674-45d2-b374-f58a77c98e6e.jpg
+    - public\uploads\content\1780893018953-931348cd-f469-49e8-bc73-b3a08430ae90.jpg
+    - public\uploads\content\1780894993826-f3c6f784-6a95-484e-a314-261f95a5bdec.jpg
+    - public\uploads\content\1780899328529-de2a701f-d0ef-452c-8d87-634a0b0fec5d.jpg
+    - public\uploads\content\1780899343194-c39eb890-8cf0-44d4-898a-1e7a9d20e61d.jpg
+    - public\uploads\content\1780899798939-5a4ae9c0-407b-419b-b5c6-e8474252b9bd.jpg
+    - public\uploads\content\1780899862142-85a526b7-575d-40f4-83bd-f8b7e3a10136.jpg
+    - public\uploads\content\1780899927803-559c5b79-2df9-4a96-9045-c97f5fd93975.jpg
+    - public\uploads\content\1780900487926-e610f2e5-8a05-4a25-8c9b-8d8c6d2bcaed.jpg
+    - public\uploads\content\1780900595035-03ce42cb-52d2-433b-9a90-e52567fda60d.jpg
+    - public\uploads\content\1780900641576-3775115b-f754-4d19-adf0-11ee4da074d1.jpg
+    - public\uploads\content\1780900721097-d0d96bc4-2108-41b8-a004-5c4c6ea0b53b.jpg
+    - public\uploads\content\1780904634014-870e8f7f-9dfe-467c-9d48-4b61c3e4f800.jpg
+    - public\uploads\content\1780904687356-7e79dd07-43dd-44f7-95c9-5742d671cc03.jpg
+    - public\uploads\content\1780905696383-dd705075-d2e0-4475-b575-919636c618bb.jpg
+    - scripts\prepare-cpanel.js
+    - src\app\[lang]\about\page.tsx
+    - src\app\[lang]\academic\[level]\AcademicLevelClient.tsx
+    - src\app\[lang]\academic\[level]\page.tsx
+    - src\app\[lang]\academic\page.tsx
+    - src\app\[lang]\achievements\page.tsx
+    - src\app\[lang]\admission\page.tsx
+    - src\app\[lang]\career\page.tsx
+    - src\app\[lang]\contact\page.tsx
+    - src\app\[lang]\facilities\page.tsx
+    - src\app\[lang]\gallery\GalleryClient.tsx
+    - src\app\[lang]\gallery\page.tsx
+    - src\app\[lang]\layout.tsx
+    - src\app\[lang]\loading.tsx
+    - src\app\[lang]\news\page.tsx
+    - src\app\[lang]\page.tsx
+    - src\app\[lang]\social-media\SocialMediaClient.tsx
+    - src\app\[lang]\social-media\page.tsx
+    - src\app\[lang]\template.tsx
+    - src\app\[lang]\terms\page.tsx
+    - src\app\api\admin\content\route.ts
+    - src\app\api\admin\social-preview\route.ts
+    - src\app\api\admin\upload\route.ts
+    - src\app\api\content\route.ts
+    - src\app\icon.svg
+    - src\app\konten-admin\layout.tsx
+    - src\app\konten-admin\page.tsx
+    - src\components\BrandIcons.tsx
+    - src\components\ContentProvider.tsx
+    - src\components\FadeInSection.tsx
+    - src\components\Footer.tsx
+    - src\components\Header.tsx
+    - src\components\HeroBackground.tsx
+    - src\components\HomeAlumniDestinations.tsx
+    - src\components\HomeCurriculumSlider.tsx
+    - src\components\HomeHeroBackground.tsx
+    - src\components\HomeScrollAnimations.tsx
+    - src\components\HomeTestimonials.tsx
+    - src\components\KineticTypography.tsx
+    - src\components\LanguageProvider.tsx
+    - src\components\Preloader.tsx
+    - src\components\ScrollReveal.tsx
+    - src\components\ThreeDCard.tsx
+    - src\components\WaveBackground.tsx
+    - src\data\contentDefaults.ts
+    - src\data\schoolData.ts
+    - src\data\translations.ts
+    - src\lib\adminAuth.ts
+    - src\lib\contentStore.ts
+    - src\lib\i18n.ts
+    - src\lib\socialMetadata.ts
+    - src\middleware.ts
+    - src\styles\globals.css
+    - src\types\siteContent.ts
+    - src\types\splide-react.d.ts
+    - tsconfig.tsbuildinfo
+source_files: []
+depends_on: []
+related_to: []

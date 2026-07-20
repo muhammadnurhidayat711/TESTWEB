@@ -1,0 +1,3 @@
+- **Deployment**: Uses a custom `prepare-cpanel.js` script to bundle the standalone build, static assets, and content directory into a `deploy/` folder ready for cPanel upload.
+- **Build Command**: `npm run build:cpanel` executes `next build` followed by the preparation script.
+- **Admin Auth**: Requires setting the `ADMIN_CONTENT_KEY` environment variable for production access to the CMS endpoints; falls back to a dev-only key in development mode.

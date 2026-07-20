@@ -1,0 +1,5 @@
+- **Framework**: Built on Next.js 16 (App Router) with React 19, utilizing `src/app` for routing and `src/components` for UI.
+- **Routing & I18n**: Implements file-based internationalization via `[lang]` dynamic segments and `src/middleware.ts` for locale detection and redirection (defaulting to 'id').
+- **Data Layer**: Uses a file-based JSON store (`content/site-content.json`) managed by `src/lib/contentStore.ts`, which provides normalization, caching, and bidirectional structural synchronization between Indonesian and English content.
+- **Admin Interface**: Features a client-side admin dashboard at `/konten-admin` that interacts with protected API routes (`/api/admin/*`) using header-based authentication (`x-admin-key`).
+- **Media Management**: Includes a dedicated upload API (`/api/admin/upload`) that saves assets to `public/uploads/content` and returns public URLs for immediate use in content entries.

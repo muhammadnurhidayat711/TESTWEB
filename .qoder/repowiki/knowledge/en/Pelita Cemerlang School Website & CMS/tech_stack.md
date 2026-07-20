@@ -1,0 +1,5 @@
+- **Next.js 16** with `output: 'standalone'` for optimized production deployment.
+- **Tailwind CSS** for styling, configured with custom fonts (Plus Jakarta Sans, Outfit, Cormorant Garamond).
+- **Framer Motion** for complex animations and scroll reveals.
+- **Lucide React** for iconography.
+- **Splide** for carousel/slider components.

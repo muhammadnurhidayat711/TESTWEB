@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+# Next.js build
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.production
+
+# User-generated content (editable via admin)
+content/
+public/uploads/
+
+# Build cache
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+# Deployment artifacts
+deploy/
+*.zip
+
+# Logs
+*.log
+dev-*.log
+
+# AI/editor local files
+.claude/
+
+# Credentials (NEVER commit)
+akunpelita.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

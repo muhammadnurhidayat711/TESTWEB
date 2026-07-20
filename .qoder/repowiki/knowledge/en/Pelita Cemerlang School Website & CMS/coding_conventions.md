@@ -1,0 +1,3 @@
+- API routes requiring administrative privileges use a shared `isAdminRequestAuthorized` helper that validates a secret key from request headers using timing-safe comparison.
+- Content data is normalized through dedicated functions (e.g., `normalizeNewsArticle`, `normalizeGalleryItem`) within `contentStore.ts` to ensure type safety and fallback defaults before being exposed to the application.
+- Client-side admin forms manage draft state locally and persist changes via `PUT` requests to specific API routes, triggering cache invalidation and revalidation of layout paths.

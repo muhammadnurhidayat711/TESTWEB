@@ -1,0 +1,1 @@
+A bilingual Next.js school website with an integrated file-based content management system and admin interface.
