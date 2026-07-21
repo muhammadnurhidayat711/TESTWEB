@@ -16,7 +16,7 @@ const nextConfig = {
   output: 'standalone',
   compress: true, // Enable gzip compression for responses
   poweredByHeader: false, // Remove X-Powered-By header for security + smaller responses
-  allowedDevOrigins: ['172.70.3.209'],
+  allowedDevOrigins: ['172.70.3.209', '*.githubpreview.dev', '*.app.github.dev', '*.csb.app'],
   async headers() {
     return [
       {

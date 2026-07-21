@@ -1,0 +1,2718 @@
+{
+  "id": {
+    "pages": {
+      "home": {
+        "id": "home",
+        "heroTitle": "Pelita Cemerlang School",
+        "heroSubtitle": "Be Bright and IMPACTFUL for Others",
+        "heroBgImage": "/images/hero-g.jpg",
+        "heroBgImages": [
+          "/images/hero-g.jpg",
+          "/uploads/content/1780564134466-917739d1-36a0-46bc-a713-d37899551a33.jpg",
+          "/uploads/content/1780564189296-1b98acf9-78dd-45a1-a0ce-388a6f6e4a05.jpg",
+          "/uploads/content/1780564189664-2a9ae68b-4b1c-4b5f-9247-7c2ab514a66a.jpg",
+          "/uploads/content/1780564189856-e1221c2f-28a5-41d1-8c0b-3a5740ab798d.jpg"
+        ],
+        "introText": "",
+        "coreValues": {
+          "title": "Nilai Inti Kami",
+          "subtitle": "Membangun karakter unggul yang IMPACTFUL bagi sesama.",
+          "items": [
+            {
+              "letter": "I",
+              "word": "ntegrity",
+              "desc": "Kejujuran dan etika yang tinggi dalam setiap tindakan."
+            },
+            {
+              "letter": "M",
+              "word": "indful",
+              "desc": "Kesadaran penuh dan bijak dalam bertindak."
+            },
+            {
+              "letter": "P",
+              "word": "rogressive",
+              "desc": "Berpikir maju dan selalu berinovasi."
+            },
+            {
+              "letter": "A",
+              "word": "gility",
+              "desc": "Ketangkasan dalam beradaptasi dengan perubahan."
+            },
+            {
+              "letter": "C",
+              "word": "ompassion",
+              "desc": "Empati dan kepedulian tulus pada sesama."
+            },
+            {
+              "letter": "T",
+              "word": "enacity",
+              "desc": "Kegigihan dan daya juang pantang menyerah."
+            },
+            {
+              "letter": "F",
+              "word": "idelity",
+              "desc": "Kesetiaan pada prinsip dan nilai kebenaran."
+            },
+            {
+              "letter": "U",
+              "word": "plifting",
+              "desc": "Saling mengangkat, mendukung, dan memotivasi."
+            },
+            {
+              "letter": "L",
+              "word": "ifelong Learner",
+              "desc": "Semangat belajar yang tak pernah padam."
+            }
+          ]
+        },
+        "curriculum": {
+          "label": "Standar Pendidikan Global",
+          "title": "Kurikulum Bertaraf Internasional",
+          "desc": "Pelita Cemerlang School mengadopsi kurikulum berstandar internasional yang dipadukan dengan nilai-nilai luhur nasional.",
+          "cards": [
+            {
+              "title": "Pearson Edexcel",
+              "desc": "As an official center for the UK Academic Curriculum, we implement an interactive bilingual environment for global fluency."
+            },
+            {
+              "title": "Kurikulum Merdeka",
+              "desc": "Application of an adaptive national curriculum, freeing student potential, and aligned with the Pancasila student profile."
+            }
+          ],
+          "image": "/uploads/content/1779695447985-f6a6b259-a41c-40c9-b223-c3dc339336b6.png",
+          "images": [
+            "/uploads/content/1779948304119-9ca07459-0f6d-45ee-bbc5-33fa742a0e36.png"
+          ]
+        },
+        "cta": {
+          "title": "Mulai Perjalanan Anda Bersama Kami.",
+          "desc": "Bergabunglah dengan komunitas pembelajar yang berdedikasi. Pendaftaran untuk tahun ajaran baru kini telah dibuka.",
+          "buttonText": "Pendaftaran Online",
+          "buttonLink": "/admission"
+        },
+        "testimonialsSection": {
+          "label": "Testimoni",
+          "title": "Apa Kata Mereka",
+          "desc": "Cerita otentik dari komunitas Pelita Cemerlang.",
+          "videos": [
+            {
+              "url": "/uploads/content/1779953641494-7399c86e-d928-4441-acfd-833cb6ab7788.mp4"
+            },
+            {
+              "url": "/uploads/content/1779954139771-75da6c85-c4bf-430a-9335-c6c4520a4bb3.mp4"
+            },
+            {
+              "url": "/uploads/content/1779954145568-06ea2f9f-4c50-49d0-9cb8-85c4ed58674e.mp4"
+            }
+          ]
+        },
+        "alumniSection": {
+          "label": "Alumni",
+          "title": "Tempat Alumni Pelajar PC Pergi",
+          "desc": "Dapatkan informasi terkini seputar kegiatan, prestasi, dan pengumuman penting di Pelita Cemerlang School."
+        }
+      },
+      "about": {
+        "id": "about",
+        "heroTitle": "Dedikasi Untuk Pendidikan",
+        "heroSubtitle": "Membentuk generasi unggul dengan wawasan global, integritas, dan semangat inovasi berkelanjutan.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "sambutan": {
+          "image": "/uploads/content/1779695049766-e88f75ca-728b-4a0f-83b6-86fa3c462d70.png",
+          "quote": "Tempat Setiap Anak Bertumbuh dan Bersinar",
+          "descParagraphs": [
+            "Di Sekolah Pelita Cemerlang, pembelajaran adalah perjalanan penemuan, pembentukan karakter, dan dampak yang bermakna.",
+            "Berada dalam lingkungan yang penuh perhatian dan inspiratif, siswa kami didorong untuk berpikir mandiri, memecahkan masalah secara kreatif, berkolaborasi dengan percaya diri, dan mengejar keunggulan dalam setiap aspek kehidupan. Didukung oleh fasilitas modern dan pendidik yang berdedikasi, kami menumbuhkan rasa ingin tahu, inovasi, dan pembelajaran sepanjang hayat.",
+            "Di luar bidang akademik, siswa mengeksplorasi minat mereka melalui olahraga, seni, teknologi, kepemimpinan, dan keterlibatan masyarakat. Setiap pengalaman dirancang untuk membantu mereka tumbuh menjadi individu yang percaya diri dan siap memberikan kontribusi positif bagi dunia.",
+            "Komunitas Pelita Cemerlang meluas jauh melampaui ruang kelas. Siswa, orang tua, guru, dan alumni tetap terhubung melalui nilai-nilai bersama, persahabatan seumur hidup, dan komitmen untuk menciptakan masa depan yang lebih baik.",
+            "Di Sekolah Pelita Cemerlang, kami menginspirasi setiap siswa untuk Menjadi Cerdas dan BERDAMPAK bagi Orang Lain."
+          ],
+          "name": "Be Bright",
+          "role": "And IMPACTFUL for Others"
+        },
+        "visionMission": {
+          "visionLabel": "Visi Kami",
+          "visionTitle": "Visi",
+          "visionDesc": "Menjadi institusi pendidikan terkemuka di Pontianak yang mendorong siswa untuk menjadi yang terbaik sesuai potensi mereka dan mempersiapkan siswa untuk menghadapi dan menjadi bagian dari dunia yang berubah dengan cepat.",
+          "missionLabel": "Misi Kami",
+          "missionTitle": "Misi",
+          "missionItems": [
+            "Mengembangkan kurikulum yang seimbang",
+            "Membekali siswa dengan pengetahuan yang aplikatif",
+            "Membekali siswa dengan keterampilan berpikir kritis",
+            "Membekali siswa dengan rasa tanggung jawab",
+            "Membekali siswa dengan keterampilan komunikasi yang efektif",
+            "Menanamkan karakter, perilaku sosial dan spiritual berdasarkan toleransi dan saling menghormati"
+          ]
+        },
+        "timelineSection": {
+          "label": "Perjalanan Kami",
+          "title": "Sejarah Singkat",
+          "desc": "Menelusuri jejak langkah dedikasi Pelita Cemerlang dalam memajukan pendidikan selama dua dekade.",
+          "items": [
+            {
+              "year": "2006",
+              "title": "Awal Perjalanan",
+              "desc": "Pelita Cemerlang School berdiri sejak tahun 2006 dan berlokasi di Jalan Gajah Mada, Pontianak."
+            },
+            {
+              "year": "2013",
+              "title": "Relokasi Sekolah",
+              "desc": "Pelita Cemerlang School berpindah ke Jalan Perdana dengan gedung serta fasilitas yang lebih lengkap guna mendukung proses pembelajaran agar semakin nyaman dan optimal bagi para siswa."
+            },
+            {
+              "year": "2018",
+              "title": "Pembukaan Jenjang SMA",
+              "desc": "pembukaan jenjang Sekolah Menengah Atas pada tahun ajaran 2018."
+            }
+          ]
+        },
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "admission": {
+        "id": "admission",
+        "heroTitle": "Pendaftaran Siswa Baru",
+        "heroSubtitle": "Bergabunglah dengan komunitas pembelajar kami dan jadilah bagian dari masa depan yang cerah.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "programsSection": {
+          "label": "Educational Investment",
+          "title": "Learning Programs",
+          "desc": "We offer comprehensive educational programs from early childhood to high school levels.",
+          "items": [
+            {
+              "id": "preschool",
+              "name": "Preschool",
+              "age": "Ages 3 - 5 Years",
+              "fee": "Rp 2.500.000",
+              "period": "Month",
+              "icon": "Blocks"
+            },
+            {
+              "id": "primary",
+              "name": "Primary",
+              "age": "Ages 6 - 11 Years",
+              "fee": "Rp 3.500.000",
+              "period": "Month",
+              "icon": "BookOpen"
+            },
+            {
+              "id": "secondary",
+              "name": "Secondary",
+              "age": "Ages 12 - 17 Years",
+              "fee": "Rp 4.500.000",
+              "period": "Month",
+              "icon": "GraduationCap"
+            }
+          ]
+        },
+        "timelineAdmission": {
+          "label": "Important Schedule",
+          "title": "Admission Process",
+          "desc": "Here is the schedule for the new student admission stages for the 2026/2027 academic year.",
+          "items": [
+            {
+              "phase": "Batch 1 Registration",
+              "date": "01 Sep - 30 Nov 2025",
+              "status": "Open"
+            },
+            {
+              "phase": "Selection Test & Interview",
+              "date": "05 - 10 Des 2025",
+              "status": "Waiting"
+            },
+            {
+              "phase": "Result Announcement",
+              "date": "15 Des 2025",
+              "status": "Waiting"
+            },
+            {
+              "phase": "Batch 2 Registration",
+              "date": "01 Jan - 31 Mar 2026",
+              "status": "Coming Soon"
+            }
+          ]
+        },
+        "requirementsSection": {
+          "label": "Required Documents",
+          "title": "Admission Requirements",
+          "desc": "Prepare the following documents to complete the administration process.",
+          "items": [
+            "Fill out the online registration form",
+            "Photocopy of Birth Certificate (2 copies)",
+            "Photocopy of Family Card (2 copies)",
+            "Passport photos size 3x4 and 4x6 (4 copies each)",
+            "Legalized photocopy of the latest academic transcript",
+            "Academic/non-academic achievement certificates (if any)"
+          ]
+        },
+        "cta": {
+          "title": "Masih Memiliki Pertanyaan?",
+          "desc": "Tim admisi kami siap membantu memberikan informasi lebih lanjut.",
+          "buttonText": "Hubungi Kami",
+          "phoneText": "+62 811-1234-5678"
+        },
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "career": {
+        "id": "career",
+        "heroTitle": "Karir di Pelita Cemerlang",
+        "heroSubtitle": "Bergabunglah dengan tim pendidik kami yang berdedikasi tinggi.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "valuesSection": {
+          "items": [
+            {
+              "icon": "GraduationCap",
+              "title": "Pengembangan Profesional",
+              "text": "Program pelatihan berkala dan dukungan sertifikasi lanjutan."
+            },
+            {
+              "icon": "Users",
+              "title": "Lingkungan Kolaboratif",
+              "text": "Budaya kerja yang saling mendukung, terbuka, dan menghargai setiap gagasan."
+            },
+            {
+              "icon": "HeartHandshake",
+              "title": "Keseimbangan Hidup & Kerja",
+              "text": "Fasilitas kesehatan, jam kerja fleksibel, dan dukungan kesejahteraan."
+            }
+          ]
+        },
+        "openingsSection": {
+          "label": "Gabung Bersama Kami",
+          "title": "Posisi Terbuka",
+          "desc": "Temukan posisi yang sesuai dengan keahlian dan minat Anda."
+        },
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "facilities": {
+        "id": "facilities",
+        "heroTitle": "Fasilitas",
+        "heroSubtitle": "Lingkungan belajar yang mendukung eksplorasi tanpa batas.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ],
+        "heroVideo": "/uploads/content/1781509028566-8d25df0f-366c-43c3-85b6-b36ec2092d8a.mp4"
+      },
+      "gallery": {
+        "id": "gallery",
+        "heroTitle": "Galeri Sekolah",
+        "heroSubtitle": "Merekam jejak perjalanan siswa dan momen berharga di sekolah.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "news": {
+        "id": "news",
+        "heroTitle": "Berita Terbaru",
+        "heroSubtitle": "Informasi terkini dan aktivitas seputar kampus Pelita Cemerlang.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "achievements": {
+        "id": "achievements",
+        "heroTitle": "Prestasi Siswa",
+        "heroSubtitle": "Kumpulan apresiasi dan penghargaan yang diraih oleh siswa-siswi kami.",
+        "heroBgImage": "/uploads/content/1780563486722-f4014d50-7c28-4bdf-afcb-82c7e17470e5.jpg",
+        "introText": "",
+        "heroBgImages": [
+          "/uploads/content/1780563486722-f4014d50-7c28-4bdf-afcb-82c7e17470e5.jpg"
+        ]
+      },
+      "social": {
+        "id": "social",
+        "heroTitle": "Media Sosial Kami",
+        "heroSubtitle": "Terhubung dengan keseharian dan keseruan aktivitas kampus.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "contact": {
+        "id": "contact",
+        "heroTitle": "Hubungi Kami",
+        "heroSubtitle": "Kami siap melayani dan menjawab pertanyaan Anda.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "terms": {
+        "id": "terms",
+        "heroTitle": "Syarat dan Ketentuan Penggunaan Situs Web Sekolah",
+        "heroSubtitle": "Ketentuan penggunaan situs web resmi Pelita Cemerlang School.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "Dengan mengakses dan menggunakan situs web ini, Anda menyetujui untuk terikat oleh Syarat dan Ketentuan berikut. Jika Anda tidak setuju dengan ketentuan ini, mohon untuk tidak menggunakan situs ini.",
+        "legalContent": "Hak Kekayaan Intelektual\nSeluruh konten yang terdapat di situs ini, termasuk, gambar, logo, dan materi lainnya, adalah milik sekolah dan dilindungi oleh undang-undang hak cipta. Penggunaan konten tanpa izin tertulis dari pihak sekolah dilarang.\n\nPenggunaan yang Diperbolehkan\nAnda diperbolehkan untuk mengakses dan menggunakan situs ini untuk tujuan informasi dan pendidikan. dan Dilarang keras menggunakan situs ini untuk, Mengunggah atau menyebarkan konten yang melanggar hukum atau tidak pantas, Mengakses data atau area yang tidak diperuntukkan bagi publik, Mengganggu atau merusak fungsi situs web.\n\nPenggunaan yang Tidak Diperbolehkan\nSekolah tidak bertanggung jawab atas kerugian atau kerusakan yang timbul dari penggunaan atau ketidakmampuan untuk menggunakan situs ini.\n\nTautan ke Situs Pihak Ketiga\nSitus ini mungkin berisi tautan ke situs web pihak ketiga. Sekolah tidak bertanggung jawab atas konten atau kebijakan privasi situs-situs tersebut.\n\nPerubahan Syarat dan Ketentuan\nSekolah berhak untuk mengubah Syarat dan Ketentuan ini kapan saja tanpa pemberitahuan sebelumnya. Perubahan akan berlaku segera setelah diposting di situs ini.\n\nHukum Yang Berlaku\nSyarat dan Ketentuan ini diatur oleh dan ditafsirkan sesuai dengan hukum yang berlaku di Indonesia.",
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      }
+    },
+    "news": [
+      {
+        "id": "news-5ef3ae1d-0220-4af6-a6c0-5126126b3cb2",
+        "title": "Perwakilan Tim Pelita Cemerlang di SMGF",
+        "excerpt": "Tim Perwakilan Pelita Cemerlang School resmi mengikuti kegiatan SMGF sebagai bagian dari upaya pengembangan potensi, kolaborasi, dan pengalaman peserta dalam ajang berskala internasional.\n\nPerwakilan Pelita Cemerlang School hadir dengan membawa semangat disiplin, kreativitas, dan karakter positif untuk memberikan penampilan terbaik selama kegiatan SMGF berlangsung.\n\nDelegasi Pelita Cemerlang School turut berpartisipasi dalam kegiatan SMGF dengan harapan dapat memperluas wawasan, membangun relasi, serta mengharumkan nama sekolah melalui prestasi dan kontribusi positif.",
+        "category": "Akademik",
+        "date": "22 Mei 2026",
+        "author": "Tim Editorial",
+        "image": "/uploads/content/1779415649653-6d7db11e-a521-4b7e-8aba-6e6f222e69e3.png",
+        "featured": true
+      },
+      {
+        "id": "digital-curriculum-sma",
+        "title": "Inovasi Kurikulum Digital Terapan untuk Siswa SMA",
+        "excerpt": "Menyikapi perkembangan teknologi masa kini, sekolah secara resmi meluncurkan program literasi digital baru yang terintegrasi langsung dengan kurikulum komprehensif...",
+        "category": "Akademik",
+        "date": "10 Mei 2025",
+        "author": "Dr. Hendra",
+        "image": "https://picsum.photos/800/600?random=402",
+        "featured": false
+      },
+      {
+        "id": "annual-art-exhibition",
+        "title": "Pameran Seni Tahunan Berlangsung Sangat Meriah",
+        "excerpt": "Karya-karya menakjubkan hasil kreativitas siswa-siswi dipamerkan di aula utama kampus dengan mengangkat tema Keberagaman Nusantara dan Ekologi Hijau...",
+        "category": "Acara",
+        "date": "05 Mei 2025",
+        "author": "Sarah Wijaya",
+        "image": "https://picsum.photos/800/600?random=403",
+        "featured": false
+      },
+      {
+        "id": "tokyo-student-exchange",
+        "title": "Program Pertukaran Pelajar Pelita Cemerlang ke Tokyo",
+        "excerpt": "Lima belas siswa berprestasi terpilih akan mengikuti program cultural exchange selama sebulan penuh di Tokyo untuk memperdalam wawasan lintas budaya...",
+        "category": "Global",
+        "date": "28 Apr 2025",
+        "author": "Tim Editorial",
+        "image": "https://picsum.photos/800/600?random=404",
+        "featured": false
+      },
+      {
+        "id": "exam-preparation-guide",
+        "title": "Tips Menghadapi Ujian Akhir Secara Efektif & Tenang",
+        "excerpt": "Panduan praktis dan komprehensif dari konselor sekolah mengenai manajemen stres serta pembagian waktu belajar yang optimal bagi seluruh siswa akhir...",
+        "category": "Edukasi",
+        "date": "20 Apr 2025",
+        "author": "Budi Santoso",
+        "image": "https://picsum.photos/800/600?random=405",
+        "featured": false
+      }
+    ],
+    "gallery": [
+      {
+        "id": "gallery-7e11f2f4-784b-430f-bf57-224ed8e0a2cd",
+        "src": "/uploads/content/1779778094410-e9fccb51-f02a-465c-ba3f-4473fd7b6f15.jpg",
+        "images": [
+          "/uploads/content/1779778094410-e9fccb51-f02a-465c-ba3f-4473fd7b6f15.jpg",
+          "/uploads/content/1779778200013-e791268e-b47e-414e-9e29-9cca377552f0.jpg",
+          "/uploads/content/1779778375100-6b63e337-4c25-48fc-9620-0d862c6e1719.jpg"
+        ],
+        "category": "Academics",
+        "title": "Fieldtrip | Primary School",
+        "aspect": "aspect-[4/3]"
+      },
+      {
+        "id": "culture-festival",
+        "src": "/uploads/content/1779767256661-5ccc4b9f-3d2f-4ded-aaa8-c4e4d0a38d28.jpg",
+        "images": [
+          "/uploads/content/1779767256661-5ccc4b9f-3d2f-4ded-aaa8-c4e4d0a38d28.jpg",
+          "/uploads/content/1779777161016-c4870e44-1864-4416-ab51-9431b0658a83.jpg",
+          "/uploads/content/1779777668738-ed8b6e90-8b2d-424a-86a2-d390c9377553.jpg"
+        ],
+        "category": "Academics",
+        "title": "Fieldtrip | Preschool",
+        "aspect": "aspect-[16/9]"
+      },
+      {
+        "id": "gallery-e3fa41a6-10be-4d58-8fc0-a1bd0f3bffa6-0",
+        "src": "/uploads/content/1779776522895-45a742a3-d041-46d2-9d40-64f15654c416.jpg",
+        "images": [
+          "/uploads/content/1779776522895-45a742a3-d041-46d2-9d40-64f15654c416.jpg",
+          "/uploads/content/1779776533008-7ed93ac3-909d-4ff5-a4f2-04ca48aac47f.jpg",
+          "/uploads/content/1779776755909-f2e166ef-3f31-4355-8bb0-72df607b8b42.jpg"
+        ],
+        "category": "Academics",
+        "title": "Eco Adventure | High School",
+        "aspect": "aspect-[4/3]"
+      }
+    ],
+    "academicPages": {
+      "preschool": {
+        "id": "preschool",
+        "name": "Preschool",
+        "title": "Membangun Fondasi Karakter & Kreativitas",
+        "desc": "Fokus pada pengembangan motorik, sosial, emosional, dan kognitif anak melalui pendekatan bermain yang terstruktur dalam lingkungan yang aman.",
+        "age": "3 - 6 Tahun",
+        "principalName": "Ms. Maria Christina, M.Pd.",
+        "principalRole": "Principal of Preschool",
+        "principalMessage": "Selamat datang di jenjang Preschool. Kami percaya setiap anak adalah unik dan memiliki potensi luar biasa. Di sini, kami menciptakan lingkungan belajar yang hangat, menyenangkan, dan menstimulasi rasa ingin tahu mereka untuk mulai menjelajahi dunia.",
+        "principalImage": "/uploads/content/1779695857467-3ecc4ba7-77b9-4f63-9d07-cca0d7b18ade.png",
+        "bgImage": "/uploads/content/1780890967095-e75de185-5f73-4dfd-bec5-31b5d8b6a7f8.jpg",
+        "bgImages": [
+          "/uploads/content/1780890967095-e75de185-5f73-4dfd-bec5-31b5d8b6a7f8.jpg",
+          "/uploads/content/1780891392684-44a5a8b6-23a5-4878-a3a7-1a07a544fd0f.jpg",
+          "/uploads/content/1780904687356-7e79dd07-43dd-44f7-95c9-5742d671cc03.jpg"
+        ],
+        "highlightImage": "/uploads/content/1780892363436-1a593b0c-b580-4e77-9f29-149a2a6d3099.jpg",
+        "focusDesc": "Di jenjang Preschool, kami menyesuaikan pendekatan pedagogi dengan tahap perkembangan psikologis dan kognitif siswa untuk memberikan hasil pembelajaran yang paling optimal.",
+        "highlights": [
+          {
+            "icon": "Heart",
+            "text": "Sensory & Motor Play"
+          },
+          {
+            "icon": "Target",
+            "text": "Character Building"
+          },
+          {
+            "icon": "BookOpen",
+            "text": "Basic Literacy"
+          },
+          {
+            "icon": "Lightbulb",
+            "text": "Creative Arts"
+          }
+        ],
+        "philosophySections": [
+          {
+            "title": "Sekolah sebagai Rumah Bertumbuh",
+            "desc": "Program pendidikan dirancang sebagai ekosistem yang aman, hangat, dan terarah agar setiap anak merasa dikenal, didampingi, dan percaya diri untuk bertumbuh.",
+            "image": "/images/hero-g.jpg"
+          },
+          {
+            "title": "Guru sebagai Pendamping Belajar",
+            "desc": "Guru hadir bukan hanya sebagai penyampai materi, tetapi sebagai fasilitator yang membaca kebutuhan siswa, membangun rasa ingin tahu, dan menuntun karakter melalui keseharian belajar.",
+            "image": "/images/hero-g.jpg"
+          },
+          {
+            "title": "Tenaga Pengajar yang Saling Terhubung",
+            "desc": "Setiap tenaga pengajar bekerja bersama dalam komunikasi yang konsisten sehingga perkembangan akademik, sosial, dan emosional siswa dipantau secara utuh.",
+            "image": "/images/hero-g.jpg"
+          }
+        ]
+      },
+      "primary": {
+        "id": "primary",
+        "name": "Primary School",
+        "title": "Eksplorasi Pengetahuan & Kemandirian",
+        "desc": "Mengembangkan literasi dasar, numerasi, dan pemahaman dunia melalui kurikulum yang adaptif dan menantang untuk merangsang potensi maksimal siswa.",
+        "age": "6 - 12 Tahun",
+        "principalName": "Mr. David Santoso, S.Pd.",
+        "principalRole": "Principal of Primary School",
+        "principalMessage": "Di jenjang Primary, kami berdedikasi untuk membekali siswa dengan fondasi akademik yang kuat serta menumbuhkan jiwa kepemimpinan sejak dini. Kami mendorong kemandirian dan rasa tanggung jawab dalam setiap langkah pembelajaran mereka.",
+        "principalImage": "https://picsum.photos/1200/1600?random=12",
+        "bgImage": "/uploads/content/1780899798939-5a4ae9c0-407b-419b-b5c6-e8474252b9bd.jpg",
+        "bgImages": [
+          "/uploads/content/1780899798939-5a4ae9c0-407b-419b-b5c6-e8474252b9bd.jpg",
+          "/uploads/content/1780899862142-85a526b7-575d-40f4-83bd-f8b7e3a10136.jpg",
+          "/uploads/content/1780899927803-559c5b79-2df9-4a96-9045-c97f5fd93975.jpg"
+        ],
+        "highlightImage": "/images/hero-g.jpg",
+        "focusDesc": "Di jenjang Primary School, kami menyesuaikan pendekatan pedagogi dengan tahap perkembangan psikologis dan kognitif siswa untuk memberikan hasil pembelajaran yang paling optimal.",
+        "highlights": [
+          {
+            "icon": "Globe",
+            "text": "Bilingual Program"
+          },
+          {
+            "icon": "Brain",
+            "text": "STEM Integration"
+          },
+          {
+            "icon": "Users",
+            "text": "Leadership Skills"
+          },
+          {
+            "icon": "Target",
+            "text": "Physical Education"
+          }
+        ],
+        "philosophySections": [
+          {
+            "title": "Sekolah sebagai Rumah Bertumbuh",
+            "desc": "Program pendidikan dirancang sebagai ekosistem yang aman, hangat, dan terarah agar setiap anak merasa dikenal, didampingi, dan percaya diri untuk bertumbuh.",
+            "image": "/images/hero-g.jpg"
+          },
+          {
+            "title": "Guru sebagai Pendamping Belajar",
+            "desc": "Guru hadir bukan hanya sebagai penyampai materi, tetapi sebagai fasilitator yang membaca kebutuhan siswa, membangun rasa ingin tahu, dan menuntun karakter melalui keseharian belajar.",
+            "image": "/images/hero-g.jpg"
+          },
+          {
+            "title": "Tenaga Pengajar yang Saling Terhubung",
+            "desc": "Setiap tenaga pengajar bekerja bersama dalam komunikasi yang konsisten sehingga perkembangan akademik, sosial, dan emosional siswa dipantau secara utuh.",
+            "image": "/images/hero-g.jpg"
+          }
+        ]
+      },
+      "secondary": {
+        "id": "secondary",
+        "name": "Secondary School",
+        "title": "Persiapan Masa Depan Global",
+        "desc": "Membentuk pemikir kritis, inovator, dan pemimpin masa depan melalui program akademik komprehensif dan panduan karir.",
+        "age": "12 - 18 Tahun",
+        "principalName": "Dr. Sarah Wijaya, M.Ed.",
+        "principalRole": "Principal of Secondary School",
+        "principalMessage": "Masa Secondary adalah fase transisi krusial menuju kedewasaan. Kurikulum kami dirancang untuk menantang pemikiran kritis, memupuk inovasi, dan secara strategis mempersiapkan siswa untuk sukses di perguruan tinggi dan panggung karir global.",
+        "principalImage": "https://picsum.photos/1200/1600?random=13",
+        "bgImage": "/uploads/content/1780900641576-3775115b-f754-4d19-adf0-11ee4da074d1.jpg",
+        "bgImages": [
+          "/uploads/content/1780900641576-3775115b-f754-4d19-adf0-11ee4da074d1.jpg",
+          "/uploads/content/1780900721097-d0d96bc4-2108-41b8-a004-5c4c6ea0b53b.jpg",
+          "/uploads/content/1780905696383-dd705075-d2e0-4475-b575-919636c618bb.jpg"
+        ],
+        "highlightImage": "/images/hero-g.jpg",
+        "focusDesc": "Di jenjang Secondary School, kami menyesuaikan pendekatan pedagogi dengan tahap perkembangan psikologis dan kognitif siswa untuk memberikan hasil pembelajaran yang paling optimal.",
+        "highlights": [
+          {
+            "icon": "Lightbulb",
+            "text": "Advanced Mentorship"
+          },
+          {
+            "icon": "Target",
+            "text": "Career Counseling"
+          },
+          {
+            "icon": "Globe",
+            "text": "Global Perspective"
+          },
+          {
+            "icon": "Heart",
+            "text": "Community Service"
+          }
+        ],
+        "philosophySections": [
+          {
+            "title": "Sekolah sebagai Rumah Bertumbuh",
+            "desc": "Program pendidikan dirancang sebagai ekosistem yang aman, hangat, dan terarah agar setiap anak merasa dikenal, didampingi, dan percaya diri untuk bertumbuh.",
+            "image": "/images/hero-g.jpg"
+          },
+          {
+            "title": "Guru sebagai Pendamping Belajar",
+            "desc": "Guru hadir bukan hanya sebagai penyampai materi, tetapi sebagai fasilitator yang membaca kebutuhan siswa, membangun rasa ingin tahu, dan menuntun karakter melalui keseharian belajar.",
+            "image": "/images/hero-g.jpg"
+          },
+          {
+            "title": "Tenaga Pengajar yang Saling Terhubung",
+            "desc": "Setiap tenaga pengajar bekerja bersama dalam komunikasi yang konsisten sehingga perkembangan akademik, sosial, dan emosional siswa dipantau secara utuh.",
+            "image": "/images/hero-g.jpg"
+          }
+        ],
+        "secondaryPrograms": [
+          {
+            "id": "junior-high-school",
+            "title": "Sekolah Menengah Pertama",
+            "desc": "Membangun fondasi akademik menengah, kemandirian belajar, karakter, dan kemampuan berpikir kritis melalui pembelajaran aktif yang terarah.",
+            "points": [
+              "Transisi belajar yang suportif",
+              "Penguatan literasi, numerasi, dan sains",
+              "Pembentukan karakter dan kolaborasi"
+            ],
+            "icon": "Brain"
+          },
+          {
+            "id": "senior-high-school",
+            "title": "Sekolah Menengah Atas",
+            "desc": "Mempersiapkan siswa menuju perguruan tinggi dan masa depan global melalui pendampingan akademik, pengembangan portofolio, dan eksplorasi karier.",
+            "points": [
+              "Persiapan universitas",
+              "Career guidance dan mentoring",
+              "Penguatan leadership dan global readiness"
+            ],
+            "icon": "GraduationCap"
+          }
+        ]
+      }
+    },
+    "academicExtracurriculars": {
+      "preschool": [
+        {
+          "id": "preschool-dancing",
+          "name": "Dancing",
+          "desc": "Membangun kelenturan dan kepercayaan diri melalui gerak tari ceria.",
+          "image": "https://picsum.photos/1200/800?random=101"
+        },
+        {
+          "id": "preschool-lukis",
+          "name": "Lukis",
+          "desc": "Mengekspresikan imajinasi dan melatih kreativitas dengan kanvas warna.",
+          "image": "https://picsum.photos/1200/800?random=102"
+        },
+        {
+          "id": "preschool-renang",
+          "name": "Renang",
+          "desc": "Pengenalan air dan pelatihan motorik dasar untuk keselamatan.",
+          "image": "https://picsum.photos/1200/800?random=103"
+        },
+        {
+          "id": "preschool-futsal",
+          "name": "Futsal",
+          "desc": "Aktivitas bermain bola untuk melatih koordinasi dan kekompakan tim.",
+          "image": "https://picsum.photos/1200/800?random=104"
+        },
+        {
+          "id": "preschool-dancing-modern",
+          "name": "Dancing Modern",
+          "desc": "Tarian modern yang merangsang kepekaan ritmik dan motorik kasar anak.",
+          "image": "https://picsum.photos/1200/800?random=105"
+        }
+      ],
+      "primary": [
+        {
+          "id": "primary-futsal",
+          "name": "Futsal",
+          "desc": "Pengembangan teknik dasar sepak bola dan strategi kerja sama tim.",
+          "image": "https://picsum.photos/1200/800?random=106"
+        },
+        {
+          "id": "primary-dancing",
+          "name": "Dancing",
+          "desc": "Melatih keluwesan, kebugaran fisik, dan ekspresi melalui tarian.",
+          "image": "https://picsum.photos/1200/800?random=107"
+        },
+        {
+          "id": "primary-basket",
+          "name": "Basket",
+          "desc": "Pelatihan dasar melempar, menangkap, dan kompetisi sehat bola basket.",
+          "image": "https://picsum.photos/1200/800?random=108"
+        },
+        {
+          "id": "primary-wusho",
+          "name": "Wusho",
+          "desc": "Pelatihan seni bela diri untuk menanamkan kedisiplinan dan fokus.",
+          "image": "https://picsum.photos/1200/800?random=109"
+        },
+        {
+          "id": "primary-renang",
+          "name": "Renang",
+          "desc": "Pelatihan teknik renang gaya utama untuk kebugaran tubuh secara holistik.",
+          "image": "https://picsum.photos/1200/800?random=110"
+        },
+        {
+          "id": "primary-batminton",
+          "name": "Batminton",
+          "desc": "Keterampilan dasar pukulan, refleks, dan kegesitan dalam bulu tangkis.",
+          "image": "https://picsum.photos/1200/800?random=111"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "secondary-cookery",
+          "name": "Cookery",
+          "desc": "Pengembangan keterampilan tata boga, kreativitas menu, dan pemahaman nutrisi.",
+          "image": "https://picsum.photos/1200/800?random=112"
+        },
+        {
+          "id": "secondary-basket",
+          "name": "Basket",
+          "desc": "Pembinaan bola basket kompetitif yang mengasah taktik dan stamina.",
+          "image": "https://picsum.photos/1200/800?random=113"
+        },
+        {
+          "id": "secondary-futsal",
+          "name": "Futsal",
+          "desc": "Latihan teknik lanjutan, kepemimpinan tim, dan persiapan kompetisi.",
+          "image": "https://picsum.photos/1200/800?random=114"
+        },
+        {
+          "id": "secondary-computer",
+          "name": "Computer",
+          "desc": "Pengembangan literasi digital, desain, pemrograman dasar, dan multimedia.",
+          "image": "https://picsum.photos/1200/800?random=115"
+        }
+      ]
+    },
+    "achievements": [
+      {
+        "id": "achievement-c020c513-ad8d-4a35-a52d-98b14bc9bcce",
+        "title": "Champions | Basketball Fest 2025",
+        "year": 2026,
+        "category": "akademik",
+        "student": "Basket Putri",
+        "class": "SMP",
+        "level": "national",
+        "medal": "gold",
+        "desc": "Tim Basket Putri SMP Pelita Cemerlang",
+        "image": "/uploads/content/1779936942344-4622f527-4d59-4276-8c70-546d12a95179.png",
+        "featured": true,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "science-olympiad-international",
+        "title": "Silver Award | SMGF",
+        "year": 2026,
+        "category": "Akademik",
+        "student": "Alfath Arfea Gutawa",
+        "class": "Kelas 7",
+        "level": "International",
+        "medal": "silver",
+        "desc": "Singapore Math Global Final",
+        "image": "/uploads/content/1779417391164-31666090-fe93-47df-9eb4-a0a355688031.png",
+        "featured": false,
+        "featuredLabel": "Tingkat Internasional",
+        "featuredTeam": "Tim Sains Pelita Cemerlang",
+        "featuredMentor": "Bimbingan: Dr. Albert W.",
+        "studentImage": "/uploads/content/1779439031185-cb534713-c11e-4506-9ce0-5f95cb2c06f4.png"
+      },
+      {
+        "id": "achievement-a8d9667a-218c-4bfa-8e7e-48317af3f4b1",
+        "title": "Perfect Score Award | SMGF",
+        "year": 2026,
+        "category": "Akademik",
+        "student": "Bryan Destin Mulyadi",
+        "class": "Kelas 7",
+        "level": "International",
+        "medal": "Gold",
+        "desc": "Singapore Math Global Finals",
+        "image": "/uploads/content/1779933977984-6adc1e21-2a4e-40e2-a3ac-a9bc5cd4d130.png",
+        "featured": true,
+        "featuredLabel": "Tingkat Internasional",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "english-debate-national",
+        "title": "Juara Debat Bahasa Inggris Nasional",
+        "year": 2025,
+        "category": "bahasa",
+        "student": "Sarah Wijaya",
+        "class": "Kelas 10",
+        "level": "national",
+        "medal": "gold",
+        "desc": "Best Speaker & Champion di National English Debate Championship",
+        "image": "https://picsum.photos/800/600?random=112",
+        "featured": false,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "robotics-innovation",
+        "title": "Best Robot Competition",
+        "year": 2024,
+        "category": "teknologi",
+        "student": "Tim Robotika",
+        "class": "SMP-SMA",
+        "level": "national",
+        "medal": "gold",
+        "desc": "Juara 1 Indonesian Robotics Competition (IRC)",
+        "image": "https://picsum.photos/800/600?random=113",
+        "featured": true,
+        "featuredLabel": "Tingkat Nasional",
+        "featuredTeam": "Tim Robotika Pelita Cemerlang",
+        "featuredMentor": "Bimbingan: Ir. Nadia Putri",
+        "studentImage": "https://picsum.photos/100/100?random=82"
+      },
+      {
+        "id": "osn-champion",
+        "title": "Juara Umum OSN",
+        "year": 2024,
+        "category": "akademik",
+        "student": "Tim OSN",
+        "class": "SMP-SMA",
+        "level": "national",
+        "medal": "gold",
+        "desc": "Juara Umum Olympiade Sains Nasional tingkat Provinsi",
+        "image": "https://picsum.photos/800/600?random=114",
+        "featured": false,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "math-jabodetabek",
+        "title": "Juara 1 Lomba Matematika",
+        "year": 2025,
+        "category": "akademik",
+        "student": "Budi Santoso",
+        "class": "Kelas 8",
+        "level": "provincial",
+        "medal": "gold",
+        "desc": "Juara 1 Math Competition se-Jabodetabek",
+        "image": "https://picsum.photos/800/600?random=115",
+        "featured": false,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "english-speech",
+        "title": "Juara 2 English Speech",
+        "year": 2025,
+        "category": "bahasa",
+        "student": "Maya Lestari",
+        "class": "Kelas 11",
+        "level": "national",
+        "medal": "silver",
+        "desc": "Second Runner Up National English Speech Contest",
+        "image": "https://picsum.photos/800/600?random=116",
+        "featured": false,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "animation-award",
+        "title": "Best Animation Award",
+        "year": 2024,
+        "category": "teknologi",
+        "student": "Kylie Chen",
+        "class": "Kelas 9",
+        "level": "international",
+        "medal": "gold",
+        "desc": "Winner di International Digital Art Competition",
+        "image": "https://picsum.photos/800/600?random=117",
+        "featured": false,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "futsal-champion",
+        "title": "Juara Futsal Antar Sekolah",
+        "year": 2025,
+        "category": "olahraga",
+        "student": "Tim Futsal",
+        "class": "SMP",
+        "level": "regional",
+        "medal": "gold",
+        "desc": "Champion Jakarta Youth Futsal Championship",
+        "image": "https://picsum.photos/800/600?random=118",
+        "featured": false,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "ballet-national",
+        "title": "Juara 1 Ballet Competition",
+        "year": 2024,
+        "category": "seni",
+        "student": "Anya Putri",
+        "class": "Kelas 6",
+        "level": "national",
+        "medal": "gold",
+        "desc": "First Place National Ballet Competition",
+        "image": "https://picsum.photos/800/600?random=119",
+        "featured": true,
+        "featuredLabel": "Tingkat Provinsi",
+        "featuredTeam": "Delegasi Seni Pelita Cemerlang",
+        "featuredMentor": "Bimbingan: Ms. Clara S.",
+        "studentImage": "https://picsum.photos/100/100?random=83"
+      }
+    ],
+    "facilities": [
+      {
+        "id": "facility-c3112f58-ba7d-4d8e-9f6d-300b630ec50a",
+        "title": "Lobby Utama",
+        "image": "/uploads/content/1781507317618-234f5117-fb8f-4499-8244-a3ee22e76350.jpg",
+        "images": [
+          "/uploads/content/1781507317618-234f5117-fb8f-4499-8244-a3ee22e76350.jpg",
+          "/uploads/content/1781507317895-18ac1979-a7fb-4773-b161-8ffb40020a53.jpg",
+          "/uploads/content/1781507317929-fd69306a-9676-4244-b494-65c2a8c26b60.jpg"
+        ]
+      },
+      {
+        "id": "facility-c0d0140a-544f-4873-9090-08cabb2bb14b",
+        "title": "Hall Sunflower",
+        "image": "/uploads/content/1781506858032-7ee4c456-07d6-4c45-aa25-e3b195e48229.jpg",
+        "images": [
+          "/uploads/content/1781506858032-7ee4c456-07d6-4c45-aa25-e3b195e48229.jpg",
+          "/uploads/content/1781506858325-c0f5b25a-d644-4ea7-bf1a-ea7e187fd8b0.jpg"
+        ]
+      },
+      {
+        "id": "facility-2e36c9d1-b3ab-47f3-9d86-e8b1d6e623b1",
+        "title": "Hall Lotus",
+        "image": "/uploads/content/1781507167747-fb1ad15a-e4c6-4a93-8284-d15d457a00fa.jpg",
+        "images": [
+          "/uploads/content/1781507167747-fb1ad15a-e4c6-4a93-8284-d15d457a00fa.jpg",
+          "/uploads/content/1781507198796-b5629b15-8359-43c7-958a-498bae1c51ce.jpg"
+        ]
+      },
+      {
+        "id": "facility-c57b1b66-f6e3-4f87-a7ee-202c80884807",
+        "title": "Mini Library",
+        "image": "/uploads/content/1781507139047-b983d454-88e3-417e-86da-51a6aa2e68e0.jpg",
+        "images": [
+          "/uploads/content/1781507139047-b983d454-88e3-417e-86da-51a6aa2e68e0.jpg",
+          "/uploads/content/1781507139613-69a6180b-02d4-45ba-a5aa-fe11647b488b.jpg"
+        ]
+      },
+      {
+        "id": "facility-5a3b7144-1425-4caf-908e-5520de31a205",
+        "title": "Water Play",
+        "image": "/uploads/content/1781507003158-12bddf34-be4f-4c76-a4db-15b6f578a0b4.jpg",
+        "images": [
+          "/uploads/content/1781507003158-12bddf34-be4f-4c76-a4db-15b6f578a0b4.jpg",
+          "/uploads/content/1781507003863-b9a81cdf-4dd0-4d5c-8dce-d1095a6a5a87.jpg"
+        ]
+      },
+      {
+        "id": "facility-f796dd43-bd93-4976-a1be-23685552cf1a",
+        "title": "Taman Baca",
+        "image": "/uploads/content/1781506905919-f4e39477-2bf5-4917-94fa-a6e337b1004f.jpg",
+        "images": [
+          "/uploads/content/1781506905919-f4e39477-2bf5-4917-94fa-a6e337b1004f.jpg"
+        ]
+      },
+      {
+        "id": "facility-b5782020-1eb3-47c8-a0ee-9b589657bcc2",
+        "title": "Science Lab",
+        "image": "/uploads/content/1781506814403-b863c6c0-6c43-40bf-9014-8fa834fb431f.jpg",
+        "images": [
+          "/uploads/content/1781506814403-b863c6c0-6c43-40bf-9014-8fa834fb431f.jpg",
+          "/uploads/content/1781506814788-9e0532ea-2cc9-4c34-9a12-83c09778781c.jpg"
+        ]
+      },
+      {
+        "id": "facility-41318cee-1cda-4caf-9048-312ab080a086",
+        "title": "Perpustakaan",
+        "image": "/uploads/content/1781506754019-74856e7e-999f-456e-af8e-9bbc0d45d02c.jpg",
+        "images": [
+          "/uploads/content/1781506754019-74856e7e-999f-456e-af8e-9bbc0d45d02c.jpg",
+          "/uploads/content/1781506754263-74f50923-f061-4ecc-b2e5-2726b5bbacfc.jpg"
+        ]
+      },
+      {
+        "id": "facility-189de6ff-41d2-46f9-8408-ed7e30eac6e9",
+        "title": "Outdoor Play",
+        "image": "/uploads/content/1781506718040-b6367988-c015-402a-8f12-1e566d9dda18.jpg",
+        "images": [
+          "/uploads/content/1781506718040-b6367988-c015-402a-8f12-1e566d9dda18.jpg",
+          "/uploads/content/1781506718574-9bf85f29-f651-46ae-8590-5bd8ea696bff.jpg",
+          "/uploads/content/1781506718890-254fee88-7b12-43f2-9952-529c81feedf6.jpg"
+        ]
+      },
+      {
+        "id": "facility-0bad0d81-8f66-4c53-84f3-ac30de3929ab",
+        "title": "Musala",
+        "image": "/uploads/content/1781506641325-6e9b6031-a005-4448-9295-1cd168305bf8.jpg",
+        "images": [
+          "/uploads/content/1781506641325-6e9b6031-a005-4448-9295-1cd168305bf8.jpg",
+          "/uploads/content/1781506641631-8d7ce2c2-53d8-4bd9-9f9f-9e4bce34e946.jpg"
+        ]
+      },
+      {
+        "id": "facility-70bfcf28-5ebf-4070-b0af-244005af7b73",
+        "title": "Laboratorium Komputer A",
+        "image": "/uploads/content/1781496364216-59f28f30-66b5-40e2-b1e8-334071c34e33.jpg",
+        "images": [
+          "/uploads/content/1781496364216-59f28f30-66b5-40e2-b1e8-334071c34e33.jpg",
+          "/uploads/content/1781496678816-4e1a3cf9-a997-4984-9388-e17d71480b09.jpg"
+        ]
+      },
+      {
+        "id": "facility-44c751e5-dd58-4e61-92c9-4af70024b2cf",
+        "title": "Lab Fisika",
+        "image": "/uploads/content/1781496333505-79601a04-a379-49b6-af4a-37344bd9639b.jpg",
+        "images": [
+          "/uploads/content/1781496333505-79601a04-a379-49b6-af4a-37344bd9639b.jpg"
+        ]
+      },
+      {
+        "id": "facility-9cd5aa98-0eab-4def-b5fa-195b7c37a955",
+        "title": "Kolam Renang",
+        "image": "/uploads/content/1781496313116-076e0294-3397-4e70-9de0-ded8c01e5ae7.jpg",
+        "images": [
+          "/uploads/content/1781496313116-076e0294-3397-4e70-9de0-ded8c01e5ae7.jpg"
+        ]
+      },
+      {
+        "id": "facility-e2cb2598-755c-4487-8bd6-909568a7928c",
+        "title": "Indoor Play",
+        "image": "/uploads/content/1781494186529-340bd64b-77bd-494d-be45-728862d1788c.png",
+        "images": [
+          "/uploads/content/1781494186529-340bd64b-77bd-494d-be45-728862d1788c.png"
+        ]
+      },
+      {
+        "id": "facility-a5a3e6e4-7f80-436c-ad62-5bcbb986cce4",
+        "title": "Dancing Room",
+        "zone": "Literasi",
+        "image": "/uploads/content/1781494006959-1dc1899f-f9fc-494e-8e61-995caacacfe7.jpg",
+        "images": [
+          "/uploads/content/1781494006959-1dc1899f-f9fc-494e-8e61-995caacacfe7.jpg"
+        ]
+      },
+      {
+        "id": "facility-dbb4c869-9235-45ab-9d51-2a7860990c68",
+        "title": "Cookery",
+        "zone": "Literasi",
+        "image": "/uploads/content/1781493859116-9e2d41a5-47a4-48f3-ae0c-1ccb02c4731b.jpg",
+        "images": [
+          "/uploads/content/1781493859116-9e2d41a5-47a4-48f3-ae0c-1ccb02c4731b.jpg"
+        ]
+      },
+      {
+        "id": "facility-762fd82d-1118-419d-ba6d-8034f1c6e9a9",
+        "title": "Kantin",
+        "zone": "Social",
+        "image": "/uploads/content/1781493780521-a0b9a381-ab08-4320-a95e-1ecf1f2c6c88.jpg",
+        "images": [
+          "/uploads/content/1781493780521-a0b9a381-ab08-4320-a95e-1ecf1f2c6c88.jpg"
+        ]
+      },
+      {
+        "id": "facility-842c2b3b-3cd4-44f1-bdb3-bbd65dfaddf7",
+        "title": "Room",
+        "zone": "Literasi",
+        "image": "/uploads/content/1781254756062-b8c6663a-a1eb-46b1-93f6-53d1ac7a2a9b.jpg",
+        "images": [
+          "/uploads/content/1781254756062-b8c6663a-a1eb-46b1-93f6-53d1ac7a2a9b.jpg"
+        ]
+      }
+    ],
+    "careerOpenings": [
+      {
+        "id": "primary-bilingual-teacher",
+        "title": "Operator Dapodik",
+        "team": "Academic",
+        "type": "Full Time",
+        "postedDate": "15 Mei 2026",
+        "deadlineDate": "30 Juni 2026",
+        "description": "pengelolaan sistem pendataan Kementerian Pendidikan yang mencakup penginputan, pembaruan, serta validasi data sekolah, peserta didik, pendidik, tenaga kependidikan, dan sarana prasarana",
+        "requirements": [
+          "1. Minimal SMA/SMK",
+          "2. Menguasai Aplikasi Dapodik",
+          "3. Mahir Komputer (Excel, Word)",
+          "4. Teliti, Jujur dan Bertanggung Jawab",
+          "5. Mampu bekerja dalam tekanan Deadline",
+          "6. Diutamakan berpengalaman sebagai operator sekolah"
+        ],
+        "responsibilities": [
+          "Tanggung jawab utama pekerjaan Dapodik (Data Pokok Pendidikan) adalah mengumpulkan, mengelola, dan memverifikasi data sekolah ke dalam sistem Kementerian Pendidikan Dasar dan Menengah."
+        ],
+        "applyEmail": "pelitacemerlangHRD@gmail.com",
+        "applyAddress": "Jl. Perdana No.8 Pontianak"
+      }
+    ],
+    "socialPosts": [
+      {
+        "id": "social-044115a9-5b79-46ac-ac91-8454f2900cc9",
+        "sourceUrl": "https://youtu.be/MTILo9dnjHY?si=NO_wKFvMn9M_PhZd",
+        "platform": "YouTube",
+        "type": "Video",
+        "title": "Graduation SMA Pelita Cemerlang School  2026🎓",
+        "excerpt": "The 12th-grade students of Pelita Cemerlang School have officially graduated and are now ready to step into a new chapter of life.A world that will offer mor...",
+        "date": "Dari YouTube",
+        "image": "https://i.ytimg.com/vi/MTILo9dnjHY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgYihlMA8=&rs=AOn4CLDpiOBng7mhdm7rh4NGfJ-PKij_gA",
+        "video": "https://youtu.be/MTILo9dnjHY?si=NO_wKFvMn9M_PhZd",
+        "objectPosition": "center",
+        "metric": "",
+        "comments": ""
+      },
+      {
+        "id": "social-b6936eb0-2f72-43c2-9a26-1360584e6c20",
+        "sourceUrl": "https://www.instagram.com/reel/DYgty1eBA3f/?utm_source=ig_embed&utm_campaign=loading",
+        "platform": "Instagram",
+        "type": "Reels",
+        "title": "Happy International Mother's Day",
+        "excerpt": "Behind every smile, every dream, and every step we take, there is a mother’s love guiding us with endless care and strength. 🤍🌸\n\nHappy International Mother’s Day to all amazing mothers around the world.\n\nThank you for your unconditional love, endless sacrifices, and warm embrace that make life brighter every day.\n\n“A mother’s love is the first home where the heart learns about love.” ✨",
+        "date": "Dari Instagram",
+        "image": "/uploads/content/1779432732871-4901ecce-8284-4fd2-b0c4-a3d0201a1761.png",
+        "video": "https://www.instagram.com/reel/DYgty1eBA3f/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "objectPosition": "center",
+        "metric": "",
+        "comments": ""
+      },
+      {
+        "id": "social-bbcbd616-def0-468e-bb22-6f2e309a2f18",
+        "sourceUrl": "https://www.tiktok.com/@pelitacemerlang/video/7468565730594737415?is_from_webapp=1&sender_device=pc&web_id=7610691254401943060",
+        "platform": "TikTok",
+        "type": "Video",
+        "title": "Tahun yang Baru",
+        "excerpt": "Tahun yang baru, semangat yang baru, dan tentunya fasilitas yang baru! 🎉✨ Kami dengan bangga mempersembahkan berbagai fasilitas terbaru di Pelita Cemerlang Preschool untuk menciptakan lingkungan belajar yang lebih nyaman, aman, dan menyenangkan bagi si kecil. Kini kami hadirkan area bermain baru yang lebih luas dengan beragam permainan yang lebih banyak—semua kami sediakan demi mendukung tumbuh kembang optimal anak-anak tercinta. Mari",
+        "date": "Dari TikTok",
+        "image": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0vvQe0SAjQrAI2OPAQFbfX5EeDLo18WEgA8MA~tplv-tiktokx-origin.image?dr=14575&x-expires=1779602400&x-signature=SVoahz%2FrmDTlsADMOxLdZMmIc4g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+        "video": "https://www.tiktok.com/@pelitacemerlang/video/7468565730594737415?is_from_webapp=1&sender_device=pc&web_id=7610691254401943060",
+        "objectPosition": "center",
+        "metric": "",
+        "comments": ""
+      },
+      {
+        "id": "social-9b52614e-27e8-422a-a238-6937f16e7657",
+        "sourceUrl": "https://youtu.be/DAfDStJ4ATU?si=sfZb4lvoeKhCBYSt",
+        "platform": "YouTube",
+        "type": "Video",
+        "title": "Green Camp SMP 2026 🏕️",
+        "excerpt": "Kegiatan Green Camp SMP berlangsung pada tanggal 7 - 8 Mei 2026 di Tirta Ria.",
+        "date": "Dari YouTube",
+        "image": "https://i.ytimg.com/vi/DAfDStJ4ATU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgSChEMA8=&rs=AOn4CLBwffZGPX-r1y8Ye7cJqIWSTFxH8g",
+        "video": "https://youtu.be/DAfDStJ4ATU?si=sfZb4lvoeKhCBYSt",
+        "objectPosition": "center",
+        "metric": "",
+        "comments": ""
+      },
+      {
+        "id": "social-b644d3fd-6413-431c-83e2-1c9aa59e868c",
+        "sourceUrl": "https://youtu.be/c0O8cuuG4cE?si=sKGU0DXE7yWwgcqx",
+        "platform": "YouTube",
+        "type": "Video",
+        "title": "ECO ADVENTURE 2025 | Fun, Mud, and Memories at SMA Pelita Cemerlang! #pelitacemerlangschool",
+        "excerpt": "Welcome to ECO ADVENTURE 2025 – an unforgettable day of fun, laughter, and teamwork at SMA Pelita Cemerlang! 🌿✨From muddy obstacle courses to water games an...",
+        "date": "Dari YouTube",
+        "image": "https://i.ytimg.com/vi/c0O8cuuG4cE/maxresdefault.jpg",
+        "video": "https://youtu.be/c0O8cuuG4cE?si=sKGU0DXE7yWwgcqx",
+        "objectPosition": "center",
+        "metric": "",
+        "comments": ""
+      },
+      {
+        "id": "social-2772693e-e0e5-4f6e-b193-ff6c4ffcdd5d",
+        "sourceUrl": "https://youtu.be/tgH7djAMC1w?si=EszU_bosUoEttJq-",
+        "platform": "YouTube",
+        "type": "Video",
+        "title": "Heal the World – Cover by Pelita Cemerlang School Students",
+        "excerpt": "A song that reminds us…A melody that carries a simple hope…That the world can be a better place, if we start from the heart 🌍🤍..📍 Lokasi : Jl. Perdana No....",
+        "date": "Dari YouTube",
+        "image": "https://i.ytimg.com/vi/tgH7djAMC1w/maxresdefault.jpg",
+        "video": "https://youtu.be/tgH7djAMC1w?si=EszU_bosUoEttJq-",
+        "objectPosition": "center",
+        "metric": "",
+        "comments": ""
+      },
+      {
+        "id": "market-day-primary",
+        "sourceUrl": "https://www.instagram.com/",
+        "platform": "Instagram",
+        "type": "Carousel",
+        "title": "Market Day karya siswa Primary",
+        "excerpt": "Dokumentasi kegiatan entrepreneurship dengan booth kreatif, presentasi produk, dan pembelajaran literasi finansial.",
+        "date": "20 Mei 2026",
+        "image": "https://picsum.photos/900/1100?random=701",
+        "video": "https://videos.pexels.com/video-files/8616750/8616750-hd_1080_1920_25fps.mp4",
+        "objectPosition": "center",
+        "metric": "2.4K likes",
+        "comments": "186 komentar"
+      },
+      {
+        "id": "campus-tour",
+        "sourceUrl": "https://www.youtube.com/",
+        "platform": "YouTube",
+        "type": "Video",
+        "title": "Campus tour Pelita Cemerlang",
+        "excerpt": "Jelajahi ruang kelas interaktif, laboratorium, perpustakaan, dan fasilitas olahraga dalam video tur sekolah terbaru.",
+        "date": "18 Mei 2026",
+        "image": "https://picsum.photos/1200/675?random=702",
+        "video": "https://videos.pexels.com/video-files/5734828/5734828-hd_1920_1080_30fps.mp4",
+        "objectPosition": "center",
+        "metric": "18K views",
+        "comments": "420 komentar"
+      },
+      {
+        "id": "art-practice-bts",
+        "sourceUrl": "https://www.tiktok.com/",
+        "platform": "TikTok",
+        "type": "Shorts",
+        "title": "Behind the scene latihan seni",
+        "excerpt": "Potongan singkat latihan musik dan tari sebelum pentas budaya tahunan bersama guru pembimbing.",
+        "date": "16 Mei 2026",
+        "image": "https://picsum.photos/800/1200?random=703",
+        "video": "https://videos.pexels.com/video-files/8616750/8616750-hd_1080_1920_25fps.mp4",
+        "objectPosition": "center",
+        "metric": "35K views",
+        "comments": "690 komentar"
+      },
+      {
+        "id": "chemistry-reels",
+        "sourceUrl": "https://www.instagram.com/",
+        "platform": "Instagram",
+        "type": "Reels",
+        "title": "Eksperimen sains di lab kimia",
+        "excerpt": "Siswa Secondary mempraktikkan reaksi aman dengan metode observasi, pencatatan, dan diskusi kelompok.",
+        "date": "14 Mei 2026",
+        "image": "https://picsum.photos/900/1100?random=704",
+        "video": "https://videos.pexels.com/video-files/6672356/6672356-uhd_3840_2160_24fps.mp4",
+        "objectPosition": "center",
+        "metric": "3.1K likes",
+        "comments": "214 komentar"
+      },
+      {
+        "id": "graduation-highlight",
+        "sourceUrl": "https://www.youtube.com/",
+        "platform": "YouTube",
+        "type": "Live Recap",
+        "title": "Graduation ceremony highlight",
+        "excerpt": "Momen wisuda, pesan kepala sekolah, dan perayaan hangat bersama keluarga besar Pelita Cemerlang.",
+        "date": "10 Mei 2026",
+        "image": "https://picsum.photos/1200/675?random=705",
+        "video": "https://videos.pexels.com/video-files/6672356/6672356-uhd_3840_2160_24fps.mp4",
+        "objectPosition": "center",
+        "metric": "24K views",
+        "comments": "510 komentar"
+      },
+      {
+        "id": "english-week-game",
+        "sourceUrl": "https://www.tiktok.com/",
+        "platform": "TikTok",
+        "type": "Challenge",
+        "title": "English week pronunciation game",
+        "excerpt": "Keseruan siswa melatih public speaking lewat permainan cepat, ekspresif, dan penuh percaya diri.",
+        "date": "08 Mei 2026",
+        "image": "https://picsum.photos/800/1200?random=706",
+        "video": "https://videos.pexels.com/video-files/8616750/8616750-hd_1080_1920_25fps.mp4",
+        "objectPosition": "center",
+        "metric": "42K views",
+        "comments": "830 komentar"
+      }
+    ],
+    "testimonials": [
+      {
+        "id": "testimonial-mpysqb0t-10ac4a1-1c8irnb",
+        "text": "Saya senang sekali bisa bersekolah di Pelita Cemerlang guru - gurunya baik semua, seru dan sangat sabar dalam mengajar",
+        "author": "Jenifer Thendean",
+        "role": "Alumni | Landed At Singapore Institute of Management",
+        "photo": "/uploads/content/1780886869374-d5dc0455-4662-41c0-a948-27e7d209ba26.jpg"
+      },
+      {
+        "id": "alumni-reza",
+        "text": "Sangat senang bersekolah di Pelita Cemerlang School lingkungan nya asik, bertemu dengan teman teman yang solid guru guru yang luar biasa selalu mendidik dan mendukung berbagai kegiatan siswa dengan maksimal",
+        "author": "Natasha Lian",
+        "role": "Alumni | Landed At Singapore Institute of Management",
+        "photo": "/uploads/content/1780886855007-d954d3d0-f89d-4384-993e-ac475656d68b.webp"
+      },
+      {
+        "id": "testimonial-mpystl98-1wm7qgm-17q1s1m",
+        "text": "Semoga Sekolah ini terus meningkat dari semua bidang pendidikannya",
+        "author": "Felix Halim",
+        "role": "Alumni | Landed At Binus University Alam Sutera",
+        "photo": "/uploads/content/1780886818670-cadadee4-00f3-46ed-bb3b-f3d0fd3e8140.webp"
+      }
+    ],
+    "alumniDestinations": [
+      {
+        "id": "alumni-itb",
+        "name": "Binus University Alam Sutera",
+        "image": "/uploads/content/1780887016737-ccf80cbd-9518-44b8-b0c4-bdcb9e57be1e.png"
+      },
+      {
+        "id": "alumni-ugm",
+        "name": "Singapore Institute of Management",
+        "image": "/uploads/content/1780887029868-8e15c141-9634-43c0-ab29-f8bbf5a94b6d.png"
+      },
+      {
+        "id": "alumni-ui",
+        "name": "Universitas Indonesia",
+        "image": "/uploads/content/1779437180433-c6b0f859-1b67-4863-a101-4c04f12da3c1.png"
+      }
+    ],
+    "contactInfo": {
+      "address": "Jl.Perdana No.8",
+      "phone": "+62 (021) 1234-5678",
+      "email": "hello@pelitacemerlang.sch.id",
+      "hours": "Senin - Jumat: 07:00 - 16:00 WIB",
+      "facebookUrl": "https://www.facebook.com/pelitacemerlangschool/?locale=id_ID",
+      "instagramUrl": "https://www.instagram.com/pelitacemerlangschool?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "linkedinUrl": "https://www.linkedin.com/company/pelita-cemerlang-school/",
+      "youtubeUrl": "https://www.youtube.com/@PelitaCemerlang",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.8164836203273!2d109.3421480740391!3d-0.05497723551785519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e1d5997093c64bb%3A0x1ddc1b259a7d381d!2sPelita%20Cemerlang%20School!5e0!3m2!1sen!2sid!4v1779435467815!5m2!1sen!2sid"
+    },
+    "footer": {
+      "description": "Mendidik generasi muda dengan wawasan global, integritas tinggi, dan semangat inovasi berkelanjutan."
+    },
+    "globalConfig": {
+      "headerLogo": "/images/logo.png",
+      "footerLogo": "",
+      "activeMenus": {
+        "nav.home": true,
+        "nav.about": true,
+        "nav.academic": true,
+        "nav.facilities": true,
+        "nav.achievements": true,
+        "nav.mediacenter": true,
+        "nav.information": true,
+        "/news": false
+      }
+    },
+    "updatedAt": "2026-06-15T07:37:24.584Z"
+  },
+  "en": {
+    "pages": {
+      "home": {
+        "id": "home",
+        "heroTitle": "Pelita Cemerlang School",
+        "heroSubtitle": "Be Bright and IMPACTFUL for Others",
+        "heroBgImage": "/images/hero-g.jpg",
+        "heroBgImages": [
+          "/images/hero-g.jpg",
+          "/uploads/content/1780564134466-917739d1-36a0-46bc-a713-d37899551a33.jpg",
+          "/uploads/content/1780564189296-1b98acf9-78dd-45a1-a0ce-388a6f6e4a05.jpg",
+          "/uploads/content/1780564189664-2a9ae68b-4b1c-4b5f-9247-7c2ab514a66a.jpg",
+          "/uploads/content/1780564189856-e1221c2f-28a5-41d1-8c0b-3a5740ab798d.jpg"
+        ],
+        "introText": "",
+        "coreValues": {
+          "title": "Our Core Values",
+          "subtitle": "Building excellent character that is IMPACTFUL for others.",
+          "items": [
+            {
+              "letter": "I",
+              "word": "ntegrity",
+              "desc": "Honesty and high ethics in every action."
+            },
+            {
+              "letter": "M",
+              "word": "indful",
+              "desc": "Full awareness and wisdom in acting."
+            },
+            {
+              "letter": "P",
+              "word": "rogressive",
+              "desc": "Forward-thinking and always innovating."
+            },
+            {
+              "letter": "A",
+              "word": "gility",
+              "desc": "Agility in adapting to changes."
+            },
+            {
+              "letter": "C",
+              "word": "ompassion",
+              "desc": "Empathy and sincere care for others."
+            },
+            {
+              "letter": "T",
+              "word": "enacity",
+              "desc": "Tenacity and unyielding fighting spirit."
+            },
+            {
+              "letter": "F",
+              "word": "idelity",
+              "desc": "Loyalty to principles and truth."
+            },
+            {
+              "letter": "U",
+              "word": "plifting",
+              "desc": "Uplifting, supporting, and motivating each other."
+            },
+            {
+              "letter": "L",
+              "word": "ifelong Learner",
+              "desc": "An unquenchable thirst for learning."
+            }
+          ]
+        },
+        "curriculum": {
+          "label": "Global Education Standards",
+          "title": "International-Standard Curriculum",
+          "desc": "Pelita Cemerlang School adopts an international-standard curriculum enriched with strong national values.",
+          "cards": [
+            {
+              "title": "Pearson Edexcel",
+              "desc": "As an official center for the UK Academic Curriculum, we implement an interactive bilingual environment for global fluency."
+            },
+            {
+              "title": "Kurikulum Merdeka",
+              "desc": "Application of an adaptive national curriculum, freeing student potential, and aligned with the Pancasila student profile."
+            }
+          ],
+          "image": "/uploads/content/1779695447985-f6a6b259-a41c-40c9-b223-c3dc339336b6.png",
+          "images": [
+            "/uploads/content/1779948304119-9ca07459-0f6d-45ee-bbc5-33fa742a0e36.png"
+          ]
+        },
+        "cta": {
+          "title": "Start Your Journey With Us.",
+          "desc": "Join a dedicated community of learners. Admissions for the new academic year are now open.",
+          "buttonText": "Online Registration",
+          "buttonLink": "/admission"
+        },
+        "testimonialsSection": {
+          "label": "Testimonials",
+          "title": "What They Say",
+          "desc": "Authentic stories from the Pelita Cemerlang community.",
+          "videos": [
+            {
+              "url": "/uploads/content/1779953641494-7399c86e-d928-4441-acfd-833cb6ab7788.mp4"
+            },
+            {
+              "url": "/uploads/content/1779954139771-75da6c85-c4bf-430a-9335-c6c4520a4bb3.mp4"
+            },
+            {
+              "url": "/uploads/content/1779954145568-06ea2f9f-4c50-49d0-9cb8-85c4ed58674e.mp4"
+            }
+          ]
+        },
+        "alumniSection": {
+          "label": "Alumni Footprints",
+          "title": "Our Alumni Destinations",
+          "desc": "Pelita Cemerlang graduates consistently prove their quality by continuing their studies at various leading universities."
+        }
+      },
+      "about": {
+        "id": "about",
+        "heroTitle": "Dedicated to Education",
+        "heroSubtitle": "Over two decades of shaping an excellent generation with global insight, integrity, and a continuous spirit of innovation.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "sambutan": {
+          "image": "/uploads/content/1779695049766-e88f75ca-728b-4a0f-83b6-86fa3c462d70.png",
+          "quote": "A Place Where Every Child Grows and Shines",
+          "descParagraphs": [
+            "At Pelita Cemerlang School, learning is a journey of discovery, character formation, and meaningful impact.",
+            "In a caring and inspiring environment, our students are encouraged to think independently, solve problems creatively, collaborate with confidence, and pursue excellence in every aspect of life. Supported by modern facilities and dedicated educators, we nurture curiosity, innovation, and lifelong learning.",
+            "Beyond academics, students explore their interests through sports, arts, technology, leadership, and community engagement. Every experience is designed to help them grow into confident individuals who are ready to contribute positively to the world.",
+            "The Pelita Cemerlang community extends far beyond the classroom. Students, parents, teachers, and alumni remain connected through shared values, lifelong friendships, and a commitment to creating a better future.",
+            "At Pelita Cemerlang School, we inspire every student to be bright and IMPACTFUL for others."
+          ],
+          "name": "Be Bright",
+          "role": "And IMPACTFUL for Others"
+        },
+        "visionMission": {
+          "visionLabel": "Our Vision",
+          "visionTitle": "Vision",
+          "visionDesc": "To become a leading educational institution in Pontianak that encourages students to become their best according to their potential and prepares them to face and become part of a rapidly changing world.",
+          "missionLabel": "Our Mission",
+          "missionTitle": "Mission",
+          "missionItems": [
+            "Develop a balanced curriculum",
+            "Equip students with applicable knowledge",
+            "Equip students with critical thinking skills",
+            "Equip students with a sense of responsibility",
+            "Equip students with effective communication skills",
+            "Instill character, social behavior, and spirituality based on tolerance and mutual respect"
+          ]
+        },
+        "timelineSection": {
+          "label": "Our Journey",
+          "title": "A Brief History",
+          "desc": "Tracing Pelita Cemerlang's dedication to advancing education for more than two decades.",
+          "items": [
+            {
+              "year": "2006",
+              "title": "The Beginning",
+              "desc": "Pelita Cemerlang School was established in 2006 and was originally located on Jalan Gajah Mada, Pontianak."
+            },
+            {
+              "year": "2013",
+              "title": "School Relocation",
+              "desc": "Pelita Cemerlang School relocated to Jalan Perdana with more complete buildings and facilities to support a more comfortable and optimal learning process for students."
+            },
+            {
+              "year": "2018",
+              "title": "Senior High School Opening",
+              "desc": "The Senior High School level opened in the 2018 academic year."
+            }
+          ]
+        },
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "admission": {
+        "id": "admission",
+        "heroTitle": "New Student Admission",
+        "heroSubtitle": "Join our community of learners and be part of a bright future.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "programsSection": {
+          "label": "Educational Investment",
+          "title": "Learning Programs",
+          "desc": "We offer comprehensive educational programs from early childhood to high school levels.",
+          "items": [
+            {
+              "id": "preschool",
+              "name": "Preschool",
+              "age": "Ages 3 - 5 Years",
+              "fee": "Rp 2.500.000",
+              "period": "Month",
+              "icon": "Blocks"
+            },
+            {
+              "id": "primary",
+              "name": "Primary",
+              "age": "Ages 6 - 11 Years",
+              "fee": "Rp 3.500.000",
+              "period": "Month",
+              "icon": "BookOpen"
+            },
+            {
+              "id": "secondary",
+              "name": "Secondary",
+              "age": "Ages 12 - 17 Years",
+              "fee": "Rp 4.500.000",
+              "period": "Month",
+              "icon": "GraduationCap"
+            }
+          ]
+        },
+        "timelineAdmission": {
+          "label": "Important Schedule",
+          "title": "Admission Process",
+          "desc": "Here is the schedule for the new student admission stages for the 2026/2027 academic year.",
+          "items": [
+            {
+              "phase": "Batch 1 Registration",
+              "date": "01 Sep - 30 Nov 2025",
+              "status": "Open"
+            },
+            {
+              "phase": "Selection Test & Interview",
+              "date": "05 - 10 Des 2025",
+              "status": "Waiting"
+            },
+            {
+              "phase": "Result Announcement",
+              "date": "15 Des 2025",
+              "status": "Waiting"
+            },
+            {
+              "phase": "Batch 2 Registration",
+              "date": "01 Jan - 31 Mar 2026",
+              "status": "Coming Soon"
+            }
+          ]
+        },
+        "requirementsSection": {
+          "label": "Required Documents",
+          "title": "Admission Requirements",
+          "desc": "Prepare the following documents to complete the administration process.",
+          "items": [
+            "Fill out the online registration form",
+            "Photocopy of Birth Certificate (2 copies)",
+            "Photocopy of Family Card (2 copies)",
+            "Passport photos size 3x4 and 4x6 (4 copies each)",
+            "Legalized photocopy of the latest academic transcript",
+            "Academic/non-academic achievement certificates (if any)"
+          ]
+        },
+        "cta": {
+          "title": "Still Have Questions?",
+          "desc": "Our admission team is ready to help provide further information.",
+          "buttonText": "Contact Us",
+          "phoneText": "+62 811-1234-5678"
+        },
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "career": {
+        "id": "career",
+        "heroTitle": "Careers at Pelita Cemerlang",
+        "heroSubtitle": "Join our highly dedicated team of educators.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "valuesSection": {
+          "items": [
+            {
+              "icon": "GraduationCap",
+              "title": "Professional Development",
+              "text": "Regular training programs and support for advanced certification."
+            },
+            {
+              "icon": "Users",
+              "title": "Collaborative Environment",
+              "text": "A supportive, open work culture that values every idea."
+            },
+            {
+              "icon": "HeartHandshake",
+              "title": "Work-Life Balance",
+              "text": "Health facilities, flexible working hours, and wellbeing support."
+            }
+          ]
+        },
+        "openingsSection": {
+          "label": "Join Us",
+          "title": "Open Positions",
+          "desc": "Find a position that matches your skills and interests."
+        },
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "facilities": {
+        "id": "facilities",
+        "heroTitle": "Modern Facilities",
+        "heroSubtitle": "A learning environment that supports limitless exploration.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ],
+        "heroVideo": "/uploads/content/1781509028566-8d25df0f-366c-43c3-85b6-b36ec2092d8a.mp4"
+      },
+      "gallery": {
+        "id": "gallery",
+        "heroTitle": "School Gallery",
+        "heroSubtitle": "Recording the footsteps of students' journeys and precious moments at school.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "news": {
+        "id": "news",
+        "heroTitle": "Latest News",
+        "heroSubtitle": "Latest information and activities around the Pelita Cemerlang campus.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "achievements": {
+        "id": "achievements",
+        "heroTitle": "Student Achievements",
+        "heroSubtitle": "A collection of appreciation and awards achieved by our students.",
+        "heroBgImage": "/uploads/content/1780563486722-f4014d50-7c28-4bdf-afcb-82c7e17470e5.jpg",
+        "introText": "",
+        "heroBgImages": [
+          "/uploads/content/1780563486722-f4014d50-7c28-4bdf-afcb-82c7e17470e5.jpg"
+        ]
+      },
+      "social": {
+        "id": "social",
+        "heroTitle": "Our Social Media",
+        "heroSubtitle": "Connect with the daily life and excitement of campus activities.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "contact": {
+        "id": "contact",
+        "heroTitle": "Contact Us",
+        "heroSubtitle": "We are ready to serve and answer your questions.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "",
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      },
+      "terms": {
+        "id": "terms",
+        "heroTitle": "Terms and Conditions",
+        "heroSubtitle": "Terms for using Pelita Cemerlang School website services and information.",
+        "heroBgImage": "/images/hero-g.jpg",
+        "introText": "Please read these terms carefully before using the information and services on this website.",
+        "legalContent": "Website Use\nBy accessing the Pelita Cemerlang School website, users are considered to have read, understood, and agreed to these terms and conditions. The information on this website is provided for general purposes, school communication, and information services for prospective students, parents, students, alumni, and the public.\n\nInformation Accuracy\nWe strive to keep all displayed information accurate and up to date. However, schedules, fees, programs, activities, or other information may change at any time according to school policy. Official administrative information remains subject to announcements or documents issued by the school.\n\nContent Use\nAll text, photos, videos, logos, designs, and other materials on this website belong to Pelita Cemerlang School or are used with appropriate permission. Users may not copy, republish, modify, or use the content for commercial purposes without written approval from the school.\n\nForms and User Data\nData submitted through website forms must be accurate and provided responsibly. Pelita Cemerlang School may use the data to follow up on inquiries, admissions, communication, or school-related services as needed for operations.\n\nExternal Links\nThis website may include links to third-party platforms, including social media, maps, or communication services. Pelita Cemerlang School is not responsible for the content, policies, or privacy practices of those third-party websites.\n\nTerms Updates\nPelita Cemerlang School may update these terms and conditions when needed. Changes apply once they are displayed on this page.\n\nContact\nFor questions about these terms and conditions, please contact the school through the official contact information available on the Contact Us page.",
+        "heroBgImages": [
+          "/images/hero-g.jpg"
+        ]
+      }
+    },
+    "news": [
+      {
+        "id": "news-5ef3ae1d-0220-4af6-a6c0-5126126b3cb2",
+        "title": "Pelita Cemerlang Team Representative at SMGF",
+        "excerpt": "The Pelita Cemerlang School Representative Team officially participated in the SMGF activities as part of the effort to develop potential, collaborate, and gain experience in an international scale event.\n\nRepresentatives of Pelita Cemerlang School were present with a spirit of discipline, creativity, and positive character to give their best performance during the SMGF activities.\n\nThe Pelita Cemerlang School delegation participated in the SMGF activities with the hope of expanding their horizons, building relationships, and making the school proud through positive achievements and contributions.",
+        "category": "Akademik",
+        "date": "22 Mei 2026",
+        "author": "Editorial Team",
+        "image": "/uploads/content/1779415649653-6d7db11e-a521-4b7e-8aba-6e6f222e69e3.png",
+        "featured": true
+      },
+      {
+        "id": "digital-curriculum-sma",
+        "title": "Applied Digital Curriculum Innovation for High School Students",
+        "excerpt": "Responding to current technological developments, the school officially launched a new digital literacy program that is directly integrated with a comprehensive curriculum...",
+        "category": "Akademik",
+        "date": "10 Mei 2025",
+        "author": "Dr. Hendra",
+        "image": "https://picsum.photos/800/600?random=402",
+        "featured": false
+      },
+      {
+        "id": "annual-art-exhibition",
+        "title": "The Annual Art Exhibition Was Very Lively",
+        "excerpt": "Amazing works resulting from students' creativity were exhibited in the main campus hall with the theme of Archipelago Diversity and Green Ecology...",
+        "category": "Acara",
+        "date": "05 Mei 2025",
+        "author": "Sarah Wijaya",
+        "image": "https://picsum.photos/800/600?random=403",
+        "featured": false
+      },
+      {
+        "id": "tokyo-student-exchange",
+        "title": "Pelita Cemerlang Student Exchange Program to Tokyo",
+        "excerpt": "Fifteen selected outstanding students will participate in a month-long cultural exchange program in Tokyo to deepen cross-cultural insights...",
+        "category": "Global",
+        "date": "28 Apr 2025",
+        "author": "Editorial Team",
+        "image": "https://picsum.photos/800/600?random=404",
+        "featured": false
+      },
+      {
+        "id": "exam-preparation-guide",
+        "title": "Tips for Facing Final Exams Effectively & Calmly",
+        "excerpt": "A practical and comprehensive guide from the school counselor on stress management and optimal study time distribution for all final year students...",
+        "category": "Edukasi",
+        "date": "20 Apr 2025",
+        "author": "Budi Santoso",
+        "image": "https://picsum.photos/800/600?random=405",
+        "featured": false
+      }
+    ],
+    "gallery": [
+      {
+        "id": "gallery-7e11f2f4-784b-430f-bf57-224ed8e0a2cd",
+        "src": "/uploads/content/1779778094410-e9fccb51-f02a-465c-ba3f-4473fd7b6f15.jpg",
+        "images": [
+          "/uploads/content/1779778094410-e9fccb51-f02a-465c-ba3f-4473fd7b6f15.jpg",
+          "/uploads/content/1779778200013-e791268e-b47e-414e-9e29-9cca377552f0.jpg",
+          "/uploads/content/1779778375100-6b63e337-4c25-48fc-9620-0d862c6e1719.jpg"
+        ],
+        "category": "Academics",
+        "title": "Fieldtrip | Primary School",
+        "aspect": "aspect-[4/3]"
+      },
+      {
+        "id": "culture-festival",
+        "src": "/uploads/content/1779767256661-5ccc4b9f-3d2f-4ded-aaa8-c4e4d0a38d28.jpg",
+        "images": [
+          "/uploads/content/1779767256661-5ccc4b9f-3d2f-4ded-aaa8-c4e4d0a38d28.jpg",
+          "/uploads/content/1779777161016-c4870e44-1864-4416-ab51-9431b0658a83.jpg",
+          "/uploads/content/1779777668738-ed8b6e90-8b2d-424a-86a2-d390c9377553.jpg"
+        ],
+        "category": "Academics",
+        "title": "Fieldtrip | Preschool",
+        "aspect": "aspect-[16/9]"
+      },
+      {
+        "id": "gallery-e3fa41a6-10be-4d58-8fc0-a1bd0f3bffa6-0",
+        "src": "/uploads/content/1779776522895-45a742a3-d041-46d2-9d40-64f15654c416.jpg",
+        "images": [
+          "/uploads/content/1779776522895-45a742a3-d041-46d2-9d40-64f15654c416.jpg",
+          "/uploads/content/1779776533008-7ed93ac3-909d-4ff5-a4f2-04ca48aac47f.jpg",
+          "/uploads/content/1779776755909-f2e166ef-3f31-4355-8bb0-72df607b8b42.jpg"
+        ],
+        "category": "Academics",
+        "title": "Eco Adventure | High School",
+        "aspect": "aspect-[4/3]"
+      }
+    ],
+    "academicPages": {
+      "preschool": {
+        "id": "preschool",
+        "name": "Preschool",
+        "title": "Building a Foundation of Character & Creativity",
+        "desc": "Focus on children's motor, social, emotional, and cognitive development through a structured play approach in a safe environment.",
+        "age": "3 - 6 Years",
+        "principalName": "Ms. Maria Christina, M.Pd.",
+        "principalRole": "Principal of Preschool",
+        "principalMessage": "Welcome to the Preschool level. We believe every child is unique and has extraordinary potential. Here, we create a warm, fun learning environment that stimulates their curiosity to start exploring the world.",
+        "principalImage": "/uploads/content/1779695857467-3ecc4ba7-77b9-4f63-9d07-cca0d7b18ade.png",
+        "bgImage": "/uploads/content/1780890967095-e75de185-5f73-4dfd-bec5-31b5d8b6a7f8.jpg",
+        "bgImages": [
+          "/uploads/content/1780890967095-e75de185-5f73-4dfd-bec5-31b5d8b6a7f8.jpg",
+          "/uploads/content/1780891392684-44a5a8b6-23a5-4878-a3a7-1a07a544fd0f.jpg",
+          "/uploads/content/1780904687356-7e79dd07-43dd-44f7-95c9-5742d671cc03.jpg"
+        ],
+        "highlightImage": "/uploads/content/1780892363436-1a593b0c-b580-4e77-9f29-149a2a6d3099.jpg",
+        "focusDesc": "At the Preschool level, we tailor our pedagogical approach to the psychological and cognitive development stage of students to provide the most optimal learning outcomes.",
+        "highlights": [
+          {
+            "icon": "Heart",
+            "text": "Sensory & Motor Play"
+          },
+          {
+            "icon": "Target",
+            "text": "Character Building"
+          },
+          {
+            "icon": "BookOpen",
+            "text": "Basic Literacy"
+          },
+          {
+            "icon": "Lightbulb",
+            "text": "Creative Arts"
+          }
+        ],
+        "philosophySections": [
+          {
+            "title": "Sekolah sebagai Rumah Bertumbuh",
+            "desc": "Program pendidikan dirancang sebagai ekosistem yang aman, hangat, dan terarah agar setiap anak merasa dikenal, didampingi, dan percaya diri untuk bertumbuh.",
+            "image": "/images/hero-g.jpg"
+          },
+          {
+            "title": "Guru sebagai Pendamping Belajar",
+            "desc": "Guru hadir bukan hanya sebagai penyampai materi, tetapi sebagai fasilitator yang membaca kebutuhan siswa, membangun rasa ingin tahu, dan menuntun karakter melalui keseharian belajar.",
+            "image": "/images/hero-g.jpg"
+          },
+          {
+            "title": "Tenaga Pengajar yang Saling Terhubung",
+            "desc": "Setiap tenaga pengajar bekerja bersama dalam komunikasi yang konsisten sehingga perkembangan akademik, sosial, dan emosional siswa dipantau secara utuh.",
+            "image": "/images/hero-g.jpg"
+          }
+        ]
+      },
+      "primary": {
+        "id": "primary",
+        "name": "Primary School",
+        "title": "Exploration of Knowledge & Independence",
+        "desc": "Developing basic literacy, numeracy, and an understanding of the world through an adaptive and challenging curriculum to stimulate students' maximum potential.",
+        "age": "6 - 12 Years",
+        "principalName": "Mr. David Santoso, S.Pd.",
+        "principalRole": "Principal of Primary School",
+        "principalMessage": "At the Primary level, we are dedicated to equipping students with a strong academic foundation and fostering a spirit of leadership from an early age. We encourage independence and a sense of responsibility in every step of their learning.",
+        "principalImage": "https://picsum.photos/1200/1600?random=12",
+        "bgImage": "/uploads/content/1780899798939-5a4ae9c0-407b-419b-b5c6-e8474252b9bd.jpg",
+        "bgImages": [
+          "/uploads/content/1780899798939-5a4ae9c0-407b-419b-b5c6-e8474252b9bd.jpg",
+          "/uploads/content/1780899862142-85a526b7-575d-40f4-83bd-f8b7e3a10136.jpg",
+          "/uploads/content/1780899927803-559c5b79-2df9-4a96-9045-c97f5fd93975.jpg"
+        ],
+        "highlightImage": "/images/hero-g.jpg",
+        "focusDesc": "At the Primary School level, we tailor our pedagogical approach to the psychological and cognitive development stage of students to provide the most optimal learning outcomes.",
+        "highlights": [
+          {
+            "icon": "Globe",
+            "text": "Bilingual Program"
+          },
+          {
+            "icon": "Brain",
+            "text": "STEM Integration"
+          },
+          {
+            "icon": "Users",
+            "text": "Leadership Skills"
+          },
+          {
+            "icon": "Target",
+            "text": "Physical Education"
+          }
+        ],
+        "philosophySections": [
+          {
+            "title": "Sekolah sebagai Rumah Bertumbuh",
+            "desc": "Program pendidikan dirancang sebagai ekosistem yang aman, hangat, dan terarah agar setiap anak merasa dikenal, didampingi, dan percaya diri untuk bertumbuh.",
+            "image": "/images/hero-g.jpg"
+          },
+          {
+            "title": "Guru sebagai Pendamping Belajar",
+            "desc": "Guru hadir bukan hanya sebagai penyampai materi, tetapi sebagai fasilitator yang membaca kebutuhan siswa, membangun rasa ingin tahu, dan menuntun karakter melalui keseharian belajar.",
+            "image": "/images/hero-g.jpg"
+          },
+          {
+            "title": "Tenaga Pengajar yang Saling Terhubung",
+            "desc": "Setiap tenaga pengajar bekerja bersama dalam komunikasi yang konsisten sehingga perkembangan akademik, sosial, dan emosional siswa dipantau secara utuh.",
+            "image": "/images/hero-g.jpg"
+          }
+        ]
+      },
+      "secondary": {
+        "id": "secondary",
+        "name": "Secondary School",
+        "title": "Preparing for a Global Future",
+        "desc": "Shaping critical thinkers, innovators, and future leaders through comprehensive academic programs and career guidance.",
+        "age": "12 - 18 Years",
+        "principalName": "Dr. Sarah Wijaya, M.Ed.",
+        "principalRole": "Principal of Secondary School",
+        "principalMessage": "The Secondary period is a crucial transition phase into adulthood. Our curriculum is designed to challenge critical thinking, foster innovation, and strategically prepare students for success in college and the global career stage.",
+        "principalImage": "https://picsum.photos/1200/1600?random=13",
+        "bgImage": "/uploads/content/1780900641576-3775115b-f754-4d19-adf0-11ee4da074d1.jpg",
+        "bgImages": [
+          "/uploads/content/1780900641576-3775115b-f754-4d19-adf0-11ee4da074d1.jpg",
+          "/uploads/content/1780900721097-d0d96bc4-2108-41b8-a004-5c4c6ea0b53b.jpg",
+          "/uploads/content/1780905696383-dd705075-d2e0-4475-b575-919636c618bb.jpg"
+        ],
+        "highlightImage": "/images/hero-g.jpg",
+        "focusDesc": "At the Secondary School level, we tailor our pedagogical approach to the psychological and cognitive development stage of students to provide the most optimal learning outcomes.",
+        "highlights": [
+          {
+            "icon": "Lightbulb",
+            "text": "Advanced Mentorship"
+          },
+          {
+            "icon": "Target",
+            "text": "Career Counseling"
+          },
+          {
+            "icon": "Globe",
+            "text": "Global Perspective"
+          },
+          {
+            "icon": "Heart",
+            "text": "Community Service"
+          }
+        ],
+        "philosophySections": [
+          {
+            "title": "Sekolah sebagai Rumah Bertumbuh",
+            "desc": "Program pendidikan dirancang sebagai ekosistem yang aman, hangat, dan terarah agar setiap anak merasa dikenal, didampingi, dan percaya diri untuk bertumbuh.",
+            "image": "/images/hero-g.jpg"
+          },
+          {
+            "title": "Guru sebagai Pendamping Belajar",
+            "desc": "Guru hadir bukan hanya sebagai penyampai materi, tetapi sebagai fasilitator yang membaca kebutuhan siswa, membangun rasa ingin tahu, dan menuntun karakter melalui keseharian belajar.",
+            "image": "/images/hero-g.jpg"
+          },
+          {
+            "title": "Tenaga Pengajar yang Saling Terhubung",
+            "desc": "Setiap tenaga pengajar bekerja bersama dalam komunikasi yang konsisten sehingga perkembangan akademik, sosial, dan emosional siswa dipantau secara utuh.",
+            "image": "/images/hero-g.jpg"
+          }
+        ],
+        "secondaryPrograms": [
+          {
+            "id": "junior-high-school",
+            "title": "Junior High School",
+            "desc": "Building a strong middle-school academic foundation, independent learning habits, character, and critical thinking through guided active learning.",
+            "points": [
+              "Supportive learning transition",
+              "Stronger literacy, numeracy, and science",
+              "Character building and collaboration"
+            ],
+            "icon": "Brain"
+          },
+          {
+            "id": "senior-high-school",
+            "title": "Senior High School",
+            "desc": "Preparing students for university and a global future through academic guidance, portfolio development, and career exploration.",
+            "points": [
+              "University preparation",
+              "Career guidance and mentoring",
+              "Leadership and global readiness"
+            ],
+            "icon": "GraduationCap"
+          }
+        ]
+      }
+    },
+    "academicExtracurriculars": {
+      "preschool": [
+        {
+          "id": "preschool-dancing",
+          "name": "Dancing",
+          "desc": "Building flexibility and self-confidence through cheerful dance movements.",
+          "image": "https://picsum.photos/1200/800?random=101"
+        },
+        {
+          "id": "preschool-lukis",
+          "name": "Painting",
+          "desc": "Expressing imagination and training creativity with color canvases.",
+          "image": "https://picsum.photos/1200/800?random=102"
+        },
+        {
+          "id": "preschool-renang",
+          "name": "Swimming",
+          "desc": "Introduction to water and basic motor training for safety.",
+          "image": "https://picsum.photos/1200/800?random=103"
+        },
+        {
+          "id": "preschool-futsal",
+          "name": "Futsal",
+          "desc": "Ball playing activities to train coordination and team cohesion.",
+          "image": "https://picsum.photos/1200/800?random=104"
+        },
+        {
+          "id": "preschool-dancing-modern",
+          "name": "Modern Dance",
+          "desc": "Modern dance that stimulates children's rhythmic sensitivity and gross motor skills.",
+          "image": "https://picsum.photos/1200/800?random=105"
+        }
+      ],
+      "primary": [
+        {
+          "id": "primary-futsal",
+          "name": "Futsal",
+          "desc": "Development of basic soccer techniques and teamwork strategies.",
+          "image": "https://picsum.photos/1200/800?random=106"
+        },
+        {
+          "id": "primary-dancing",
+          "name": "Dancing",
+          "desc": "Training flexibility, physical fitness, and expression through dance.",
+          "image": "https://picsum.photos/1200/800?random=107"
+        },
+        {
+          "id": "primary-basket",
+          "name": "Basket",
+          "desc": "Basic training in throwing, catching, and healthy basketball competition.",
+          "image": "https://picsum.photos/1200/800?random=108"
+        },
+        {
+          "id": "primary-wusho",
+          "name": "Wusho",
+          "desc": "Martial arts training to instill discipline and focus.",
+          "image": "https://picsum.photos/1200/800?random=109"
+        },
+        {
+          "id": "primary-renang",
+          "name": "Swimming",
+          "desc": "Training in main swimming style techniques for holistic body fitness.",
+          "image": "https://picsum.photos/1200/800?random=110"
+        },
+        {
+          "id": "primary-batminton",
+          "name": "Batminton",
+          "desc": "Basic striking skills, reflexes, and agility in badminton.",
+          "image": "https://picsum.photos/1200/800?random=111"
+        }
+      ],
+      "secondary": [
+        {
+          "id": "secondary-cookery",
+          "name": "Cookery",
+          "desc": "Development of culinary skills, menu creativity, and nutritional understanding.",
+          "image": "https://picsum.photos/1200/800?random=112"
+        },
+        {
+          "id": "secondary-basket",
+          "name": "Basket",
+          "desc": "Competitive basketball coaching that hones tactics and stamina.",
+          "image": "https://picsum.photos/1200/800?random=113"
+        },
+        {
+          "id": "secondary-futsal",
+          "name": "Futsal",
+          "desc": "Advanced technical training, team leadership, and competition preparation.",
+          "image": "https://picsum.photos/1200/800?random=114"
+        },
+        {
+          "id": "secondary-computer",
+          "name": "Computer",
+          "desc": "Development of digital literacy, design, basic programming, and multimedia.",
+          "image": "https://picsum.photos/1200/800?random=115"
+        }
+      ]
+    },
+    "achievements": [
+      {
+        "id": "achievement-c020c513-ad8d-4a35-a52d-98b14bc9bcce",
+        "title": "Champions | Basketball Fest 2025",
+        "year": 2026,
+        "category": "akademik",
+        "student": "Basket Putri",
+        "class": "SMP",
+        "level": "national",
+        "medal": "gold",
+        "desc": "Pelita Cemerlang Junior High Girls Basketball Team",
+        "image": "/uploads/content/1779936942344-4622f527-4d59-4276-8c70-546d12a95179.png",
+        "featured": true,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "science-olympiad-international",
+        "title": "Silver Award | SMGF",
+        "year": 2026,
+        "category": "Akademik",
+        "student": "Alfath Arfea Gutawa",
+        "class": "Grade 7",
+        "level": "International",
+        "medal": "silver",
+        "desc": "Singapore Math Global Final",
+        "image": "/uploads/content/1779417391164-31666090-fe93-47df-9eb4-a0a355688031.png",
+        "featured": false,
+        "featuredLabel": "International Level",
+        "featuredTeam": "Pelita Cemerlang Science Team",
+        "featuredMentor": "Supervised by: Dr. Albert W.",
+        "studentImage": "/uploads/content/1779439031185-cb534713-c11e-4506-9ce0-5f95cb2c06f4.png"
+      },
+      {
+        "id": "achievement-a8d9667a-218c-4bfa-8e7e-48317af3f4b1",
+        "title": "Perfect Score Award | SMGF",
+        "year": 2026,
+        "category": "Akademik",
+        "student": "Bryan Destin Mulyadi",
+        "class": "Grade 7",
+        "level": "International",
+        "medal": "Gold",
+        "desc": "Singapore Math Global Finals",
+        "image": "/uploads/content/1779933977984-6adc1e21-2a4e-40e2-a3ac-a9bc5cd4d130.png",
+        "featured": true,
+        "featuredLabel": "International Level",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "english-debate-national",
+        "title": "National English Debate Champion",
+        "year": 2025,
+        "category": "bahasa",
+        "student": "Sarah Wijaya",
+        "class": "Grade 10",
+        "level": "national",
+        "medal": "gold",
+        "desc": "Best Speaker & Champion at the National English Debate Championship",
+        "image": "https://picsum.photos/800/600?random=112",
+        "featured": false,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "robotics-innovation",
+        "title": "Best Robot Competition",
+        "year": 2024,
+        "category": "teknologi",
+        "student": "Tim Robotika",
+        "class": "SMP-SMA",
+        "level": "national",
+        "medal": "gold",
+        "desc": "1st Place Indonesian Robotics Competition (IRC)",
+        "image": "https://picsum.photos/800/600?random=113",
+        "featured": true,
+        "featuredLabel": "National Level",
+        "featuredTeam": "Pelita Cemerlang Robotics Team",
+        "featuredMentor": "Supervised by: Ir. Nadia Putri",
+        "studentImage": "https://picsum.photos/100/100?random=82"
+      },
+      {
+        "id": "osn-champion",
+        "title": "OSN Overall Champion",
+        "year": 2024,
+        "category": "akademik",
+        "student": "Tim OSN",
+        "class": "SMP-SMA",
+        "level": "national",
+        "medal": "gold",
+        "desc": "Overall Champion of the Provincial National Science Olympiad",
+        "image": "https://picsum.photos/800/600?random=114",
+        "featured": false,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "math-jabodetabek",
+        "title": "1st Place Mathematics Competition",
+        "year": 2025,
+        "category": "akademik",
+        "student": "Budi Santoso",
+        "class": "Grade 8",
+        "level": "provincial",
+        "medal": "gold",
+        "desc": "1st Place Math Competition in Greater Jakarta",
+        "image": "https://picsum.photos/800/600?random=115",
+        "featured": false,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "english-speech",
+        "title": "2nd Place English Speech",
+        "year": 2025,
+        "category": "bahasa",
+        "student": "Maya Lestari",
+        "class": "Grade 11",
+        "level": "national",
+        "medal": "silver",
+        "desc": "Second Runner Up National English Speech Contest",
+        "image": "https://picsum.photos/800/600?random=116",
+        "featured": false,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "animation-award",
+        "title": "Best Animation Award",
+        "year": 2024,
+        "category": "teknologi",
+        "student": "Kylie Chen",
+        "class": "Grade 9",
+        "level": "international",
+        "medal": "gold",
+        "desc": "Winner at the International Digital Art Competition",
+        "image": "https://picsum.photos/800/600?random=117",
+        "featured": false,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "futsal-champion",
+        "title": "Inter-School Futsal Champion",
+        "year": 2025,
+        "category": "olahraga",
+        "student": "Tim Futsal",
+        "class": "SMP",
+        "level": "regional",
+        "medal": "gold",
+        "desc": "Champion Jakarta Youth Futsal Championship",
+        "image": "https://picsum.photos/800/600?random=118",
+        "featured": false,
+        "featuredLabel": "",
+        "featuredTeam": "",
+        "featuredMentor": "",
+        "studentImage": ""
+      },
+      {
+        "id": "ballet-national",
+        "title": "1st Place Ballet Competition",
+        "year": 2024,
+        "category": "seni",
+        "student": "Anya Putri",
+        "class": "Grade 6",
+        "level": "national",
+        "medal": "gold",
+        "desc": "First Place National Ballet Competition",
+        "image": "https://picsum.photos/800/600?random=119",
+        "featured": true,
+        "featuredLabel": "Provincial Level",
+        "featuredTeam": "Pelita Cemerlang Art Delegation",
+        "featuredMentor": "Supervised by: Ms. Clara S.",
+        "studentImage": "https://picsum.photos/100/100?random=83"
+      }
+    ],
+    "facilities": [
+      {
+        "id": "facility-c3112f58-ba7d-4d8e-9f6d-300b630ec50a",
+        "title": "Lobby Utama",
+        "image": "/uploads/content/1781507317618-234f5117-fb8f-4499-8244-a3ee22e76350.jpg",
+        "images": [
+          "/uploads/content/1781507317618-234f5117-fb8f-4499-8244-a3ee22e76350.jpg",
+          "/uploads/content/1781507317895-18ac1979-a7fb-4773-b161-8ffb40020a53.jpg",
+          "/uploads/content/1781507317929-fd69306a-9676-4244-b494-65c2a8c26b60.jpg"
+        ]
+      },
+      {
+        "id": "facility-c0d0140a-544f-4873-9090-08cabb2bb14b",
+        "title": "Sunflower Hall",
+        "image": "/uploads/content/1781506858032-7ee4c456-07d6-4c45-aa25-e3b195e48229.jpg",
+        "images": [
+          "/uploads/content/1781506858032-7ee4c456-07d6-4c45-aa25-e3b195e48229.jpg",
+          "/uploads/content/1781506858325-c0f5b25a-d644-4ea7-bf1a-ea7e187fd8b0.jpg"
+        ]
+      },
+      {
+        "id": "facility-2e36c9d1-b3ab-47f3-9d86-e8b1d6e623b1",
+        "title": "Hall Lotus",
+        "image": "/uploads/content/1781507167747-fb1ad15a-e4c6-4a93-8284-d15d457a00fa.jpg",
+        "images": [
+          "/uploads/content/1781507167747-fb1ad15a-e4c6-4a93-8284-d15d457a00fa.jpg",
+          "/uploads/content/1781507198796-b5629b15-8359-43c7-958a-498bae1c51ce.jpg"
+        ]
+      },
+      {
+        "id": "facility-c57b1b66-f6e3-4f87-a7ee-202c80884807",
+        "title": "Mini Library",
+        "image": "/uploads/content/1781507139047-b983d454-88e3-417e-86da-51a6aa2e68e0.jpg",
+        "images": [
+          "/uploads/content/1781507139047-b983d454-88e3-417e-86da-51a6aa2e68e0.jpg",
+          "/uploads/content/1781507139613-69a6180b-02d4-45ba-a5aa-fe11647b488b.jpg"
+        ]
+      },
+      {
+        "id": "facility-5a3b7144-1425-4caf-908e-5520de31a205",
+        "title": "Water Play",
+        "image": "/uploads/content/1781507003158-12bddf34-be4f-4c76-a4db-15b6f578a0b4.jpg",
+        "images": [
+          "/uploads/content/1781507003158-12bddf34-be4f-4c76-a4db-15b6f578a0b4.jpg",
+          "/uploads/content/1781507003863-b9a81cdf-4dd0-4d5c-8dce-d1095a6a5a87.jpg"
+        ]
+      },
+      {
+        "id": "facility-f796dd43-bd93-4976-a1be-23685552cf1a",
+        "title": "Taman Baca",
+        "image": "/uploads/content/1781506905919-f4e39477-2bf5-4917-94fa-a6e337b1004f.jpg",
+        "images": [
+          "/uploads/content/1781506905919-f4e39477-2bf5-4917-94fa-a6e337b1004f.jpg"
+        ]
+      },
+      {
+        "id": "facility-b5782020-1eb3-47c8-a0ee-9b589657bcc2",
+        "title": "Science Lab",
+        "image": "/uploads/content/1781506814403-b863c6c0-6c43-40bf-9014-8fa834fb431f.jpg",
+        "images": [
+          "/uploads/content/1781506814403-b863c6c0-6c43-40bf-9014-8fa834fb431f.jpg",
+          "/uploads/content/1781506814788-9e0532ea-2cc9-4c34-9a12-83c09778781c.jpg"
+        ]
+      },
+      {
+        "id": "facility-41318cee-1cda-4caf-9048-312ab080a086",
+        "title": "Perpustakaan",
+        "image": "/uploads/content/1781506754019-74856e7e-999f-456e-af8e-9bbc0d45d02c.jpg",
+        "images": [
+          "/uploads/content/1781506754019-74856e7e-999f-456e-af8e-9bbc0d45d02c.jpg",
+          "/uploads/content/1781506754263-74f50923-f061-4ecc-b2e5-2726b5bbacfc.jpg"
+        ]
+      },
+      {
+        "id": "facility-189de6ff-41d2-46f9-8408-ed7e30eac6e9",
+        "title": "Outdoor Play",
+        "image": "/uploads/content/1781506718040-b6367988-c015-402a-8f12-1e566d9dda18.jpg",
+        "images": [
+          "/uploads/content/1781506718040-b6367988-c015-402a-8f12-1e566d9dda18.jpg",
+          "/uploads/content/1781506718574-9bf85f29-f651-46ae-8590-5bd8ea696bff.jpg",
+          "/uploads/content/1781506718890-254fee88-7b12-43f2-9952-529c81feedf6.jpg"
+        ]
+      },
+      {
+        "id": "facility-0bad0d81-8f66-4c53-84f3-ac30de3929ab",
+        "title": "Musala",
+        "image": "/uploads/content/1781506641325-6e9b6031-a005-4448-9295-1cd168305bf8.jpg",
+        "images": [
+          "/uploads/content/1781506641325-6e9b6031-a005-4448-9295-1cd168305bf8.jpg",
+          "/uploads/content/1781506641631-8d7ce2c2-53d8-4bd9-9f9f-9e4bce34e946.jpg"
+        ]
+      },
+      {
+        "id": "facility-70bfcf28-5ebf-4070-b0af-244005af7b73",
+        "title": "Laboratorium Komputer A",
+        "image": "/uploads/content/1781496364216-59f28f30-66b5-40e2-b1e8-334071c34e33.jpg",
+        "images": [
+          "/uploads/content/1781496364216-59f28f30-66b5-40e2-b1e8-334071c34e33.jpg",
+          "/uploads/content/1781496678816-4e1a3cf9-a997-4984-9388-e17d71480b09.jpg"
+        ]
+      },
+      {
+        "id": "facility-44c751e5-dd58-4e61-92c9-4af70024b2cf",
+        "title": "Lab Fisika",
+        "image": "/uploads/content/1781496333505-79601a04-a379-49b6-af4a-37344bd9639b.jpg",
+        "images": [
+          "/uploads/content/1781496333505-79601a04-a379-49b6-af4a-37344bd9639b.jpg"
+        ]
+      },
+      {
+        "id": "facility-9cd5aa98-0eab-4def-b5fa-195b7c37a955",
+        "title": "Kolam Renang",
+        "image": "/uploads/content/1781496313116-076e0294-3397-4e70-9de0-ded8c01e5ae7.jpg",
+        "images": [
+          "/uploads/content/1781496313116-076e0294-3397-4e70-9de0-ded8c01e5ae7.jpg"
+        ]
+      },
+      {
+        "id": "facility-e2cb2598-755c-4487-8bd6-909568a7928c",
+        "title": "Indoor Play",
+        "image": "/uploads/content/1781494186529-340bd64b-77bd-494d-be45-728862d1788c.png",
+        "images": [
+          "/uploads/content/1781494186529-340bd64b-77bd-494d-be45-728862d1788c.png"
+        ]
+      },
+      {
+        "id": "facility-a5a3e6e4-7f80-436c-ad62-5bcbb986cce4",
+        "title": "Dancing Room",
+        "zone": "Literasi",
+        "image": "/uploads/content/1781494006959-1dc1899f-f9fc-494e-8e61-995caacacfe7.jpg",
+        "images": [
+          "/uploads/content/1781494006959-1dc1899f-f9fc-494e-8e61-995caacacfe7.jpg"
+        ]
+      },
+      {
+        "id": "facility-dbb4c869-9235-45ab-9d51-2a7860990c68",
+        "title": "Cookery",
+        "zone": "Literasi",
+        "image": "/uploads/content/1781493859116-9e2d41a5-47a4-48f3-ae0c-1ccb02c4731b.jpg",
+        "images": [
+          "/uploads/content/1781493859116-9e2d41a5-47a4-48f3-ae0c-1ccb02c4731b.jpg"
+        ]
+      },
+      {
+        "id": "facility-762fd82d-1118-419d-ba6d-8034f1c6e9a9",
+        "title": "Kantin",
+        "zone": "Social",
+        "image": "/uploads/content/1781493780521-a0b9a381-ab08-4320-a95e-1ecf1f2c6c88.jpg",
+        "images": [
+          "/uploads/content/1781493780521-a0b9a381-ab08-4320-a95e-1ecf1f2c6c88.jpg"
+        ]
+      },
+      {
+        "id": "facility-842c2b3b-3cd4-44f1-bdb3-bbd65dfaddf7",
+        "title": "Room",
+        "zone": "Literasi",
+        "image": "/uploads/content/1781254756062-b8c6663a-a1eb-46b1-93f6-53d1ac7a2a9b.jpg",
+        "images": [
+          "/uploads/content/1781254756062-b8c6663a-a1eb-46b1-93f6-53d1ac7a2a9b.jpg"
+        ]
+      }
+    ],
+    "careerOpenings": [
+      {
+        "id": "primary-bilingual-teacher",
+        "title": "Dapodik Operator",
+        "team": "Academic",
+        "type": "Full Time",
+        "postedDate": "15 Mei 2026",
+        "deadlineDate": "30 Juni 2026",
+        "description": "Responsible for managing the education database system of the Ministry of Education, including inputting, updating, and validating school data, students, teachers, educational staff, and infrastructure.",
+        "requirements": [
+          "1. Minimum high school graduate (SMA/SMK)",
+          "2. Proficient in using the Dapodik application",
+          "3. Proficient in computer operations (Excel, Word)",
+          "4. Detail-oriented, honest, and highly responsible",
+          "5. Able to work under deadline pressure",
+          "6. Experience as a school operator is highly preferred"
+        ],
+        "responsibilities": [
+          "The main responsibility is to collect, manage, and verify school data into the database system of the Ministry of Basic and Secondary Education."
+        ],
+        "applyEmail": "pelitacemerlangHRD@gmail.com",
+        "applyAddress": "Jl. Perdana No.8 Pontianak"
+      }
+    ],
+    "socialPosts": [
+      {
+        "id": "social-044115a9-5b79-46ac-ac91-8454f2900cc9",
+        "sourceUrl": "https://youtu.be/MTILo9dnjHY?si=NO_wKFvMn9M_PhZd",
+        "platform": "YouTube",
+        "type": "Video",
+        "title": "Graduation SMA Pelita Cemerlang School  2026🎓",
+        "excerpt": "The 12th-grade students of Pelita Cemerlang School have officially graduated and are now ready to step into a new chapter of life.A world that will offer mor...",
+        "date": "Dari YouTube",
+        "image": "https://i.ytimg.com/vi/MTILo9dnjHY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgYihlMA8=&rs=AOn4CLDpiOBng7mhdm7rh4NGfJ-PKij_gA",
+        "video": "https://youtu.be/MTILo9dnjHY?si=NO_wKFvMn9M_PhZd",
+        "objectPosition": "center",
+        "metric": "",
+        "comments": ""
+      },
+      {
+        "id": "social-b6936eb0-2f72-43c2-9a26-1360584e6c20",
+        "sourceUrl": "https://www.instagram.com/reel/DYgty1eBA3f/?utm_source=ig_embed&utm_campaign=loading",
+        "platform": "Instagram",
+        "type": "Reels",
+        "title": "Happy International Mother's Day",
+        "excerpt": "Behind every smile, every dream, and every step we take, there is a mother’s love guiding us with endless care and strength. 🤍🌸\n\nHappy International Mother’s Day to all amazing mothers around the world.\n\nThank you for your unconditional love, endless sacrifices, and warm embrace that make life brighter every day.\n\n“A mother’s love is the first home where the heart learns about love.” ✨",
+        "date": "Dari Instagram",
+        "image": "/uploads/content/1779432732871-4901ecce-8284-4fd2-b0c4-a3d0201a1761.png",
+        "video": "https://www.instagram.com/reel/DYgty1eBA3f/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "objectPosition": "center",
+        "metric": "",
+        "comments": ""
+      },
+      {
+        "id": "social-bbcbd616-def0-468e-bb22-6f2e309a2f18",
+        "sourceUrl": "https://www.tiktok.com/@pelitacemerlang/video/7468565730594737415?is_from_webapp=1&sender_device=pc&web_id=7610691254401943060",
+        "platform": "TikTok",
+        "type": "Video",
+        "title": "New Year",
+        "excerpt": "New year, new spirit, and of course new facilities! 🎉✨ We are proud to present various new facilities at Pelita Cemerlang Preschool to create a more comfortable, safe, and fun learning environment for your little ones. We now present a new, larger play area with more diverse games—all provided to support the optimal growth and development of your beloved children. Let's",
+        "date": "Dari TikTok",
+        "image": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0vvQe0SAjQrAI2OPAQFbfX5EeDLo18WEgA8MA~tplv-tiktokx-origin.image?dr=14575&x-expires=1779602400&x-signature=SVoahz%2FrmDTlsADMOxLdZMmIc4g%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+        "video": "https://www.tiktok.com/@pelitacemerlang/video/7468565730594737415?is_from_webapp=1&sender_device=pc&web_id=7610691254401943060",
+        "objectPosition": "center",
+        "metric": "",
+        "comments": ""
+      },
+      {
+        "id": "social-9b52614e-27e8-422a-a238-6937f16e7657",
+        "sourceUrl": "https://youtu.be/DAfDStJ4ATU?si=sfZb4lvoeKhCBYSt",
+        "platform": "YouTube",
+        "type": "Video",
+        "title": "Green Camp SMP 2026 🏕️",
+        "excerpt": "The Green Camp for Junior High School students took place on May 7-8, 2026 at Tirta Ria.",
+        "date": "Dari YouTube",
+        "image": "https://i.ytimg.com/vi/DAfDStJ4ATU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgSChEMA8=&rs=AOn4CLBwffZGPX-r1y8Ye7cJqIWSTFxH8g",
+        "video": "https://youtu.be/DAfDStJ4ATU?si=sfZb4lvoeKhCBYSt",
+        "objectPosition": "center",
+        "metric": "",
+        "comments": ""
+      },
+      {
+        "id": "social-b644d3fd-6413-431c-83e2-1c9aa59e868c",
+        "sourceUrl": "https://youtu.be/c0O8cuuG4cE?si=sKGU0DXE7yWwgcqx",
+        "platform": "YouTube",
+        "type": "Video",
+        "title": "ECO ADVENTURE 2025 | Fun, Mud, and Memories at SMA Pelita Cemerlang! #pelitacemerlangschool",
+        "excerpt": "Welcome to ECO ADVENTURE 2025 – an unforgettable day of fun, laughter, and teamwork at SMA Pelita Cemerlang! 🌿✨From muddy obstacle courses to water games an...",
+        "date": "Dari YouTube",
+        "image": "https://i.ytimg.com/vi/c0O8cuuG4cE/maxresdefault.jpg",
+        "video": "https://youtu.be/c0O8cuuG4cE?si=sKGU0DXE7yWwgcqx",
+        "objectPosition": "center",
+        "metric": "",
+        "comments": ""
+      },
+      {
+        "id": "social-2772693e-e0e5-4f6e-b193-ff6c4ffcdd5d",
+        "sourceUrl": "https://youtu.be/tgH7djAMC1w?si=EszU_bosUoEttJq-",
+        "platform": "YouTube",
+        "type": "Video",
+        "title": "Heal the World – Cover by Pelita Cemerlang School Students",
+        "excerpt": "A song that reminds us…A melody that carries a simple hope…That the world can be a better place, if we start from the heart 🌍🤍..📍 Lokasi : Jl. Perdana No....",
+        "date": "Dari YouTube",
+        "image": "https://i.ytimg.com/vi/tgH7djAMC1w/maxresdefault.jpg",
+        "video": "https://youtu.be/tgH7djAMC1w?si=EszU_bosUoEttJq-",
+        "objectPosition": "center",
+        "metric": "",
+        "comments": ""
+      },
+      {
+        "id": "market-day-primary",
+        "sourceUrl": "https://www.instagram.com/",
+        "platform": "Instagram",
+        "type": "Carousel",
+        "title": "Primary students' Market Day",
+        "excerpt": "Documentation of entrepreneurship activities with creative booths, product presentations, and financial literacy learning.",
+        "date": "20 Mei 2026",
+        "image": "https://picsum.photos/900/1100?random=701",
+        "video": "https://videos.pexels.com/video-files/8616750/8616750-hd_1080_1920_25fps.mp4",
+        "objectPosition": "center",
+        "metric": "2.4K likes",
+        "comments": "186 komentar"
+      },
+      {
+        "id": "campus-tour",
+        "sourceUrl": "https://www.youtube.com/",
+        "platform": "YouTube",
+        "type": "Video",
+        "title": "Pelita Cemerlang Campus Tour",
+        "excerpt": "Explore interactive classrooms, laboratories, libraries, and sports facilities in the latest school tour video.",
+        "date": "18 Mei 2026",
+        "image": "https://picsum.photos/1200/675?random=702",
+        "video": "https://videos.pexels.com/video-files/5734828/5734828-hd_1920_1080_30fps.mp4",
+        "objectPosition": "center",
+        "metric": "18K views",
+        "comments": "420 komentar"
+      },
+      {
+        "id": "art-practice-bts",
+        "sourceUrl": "https://www.tiktok.com/",
+        "platform": "TikTok",
+        "type": "Shorts",
+        "title": "Behind the scenes of art practice",
+        "excerpt": "A short snippet of music and dance practice before the annual cultural performance with the supervising teacher.",
+        "date": "16 Mei 2026",
+        "image": "https://picsum.photos/800/1200?random=703",
+        "video": "https://videos.pexels.com/video-files/8616750/8616750-hd_1080_1920_25fps.mp4",
+        "objectPosition": "center",
+        "metric": "35K views",
+        "comments": "690 komentar"
+      },
+      {
+        "id": "chemistry-reels",
+        "sourceUrl": "https://www.instagram.com/",
+        "platform": "Instagram",
+        "type": "Reels",
+        "title": "Science experiments in the chemistry lab",
+        "excerpt": "Secondary students practice safe reactions using observation, recording, and group discussion methods.",
+        "date": "14 Mei 2026",
+        "image": "https://picsum.photos/900/1100?random=704",
+        "video": "https://videos.pexels.com/video-files/6672356/6672356-uhd_3840_2160_24fps.mp4",
+        "objectPosition": "center",
+        "metric": "3.1K likes",
+        "comments": "214 komentar"
+      },
+      {
+        "id": "graduation-highlight",
+        "sourceUrl": "https://www.youtube.com/",
+        "platform": "YouTube",
+        "type": "Live Recap",
+        "title": "Graduation ceremony highlight",
+        "excerpt": "Graduation moments, principal's message, and warm celebrations with the extended Pelita Cemerlang family.",
+        "date": "10 Mei 2026",
+        "image": "https://picsum.photos/1200/675?random=705",
+        "video": "https://videos.pexels.com/video-files/6672356/6672356-uhd_3840_2160_24fps.mp4",
+        "objectPosition": "center",
+        "metric": "24K views",
+        "comments": "510 komentar"
+      },
+      {
+        "id": "english-week-game",
+        "sourceUrl": "https://www.tiktok.com/",
+        "platform": "TikTok",
+        "type": "Challenge",
+        "title": "English week pronunciation game",
+        "excerpt": "The excitement of students practicing public speaking through fast, expressive, and confident games.",
+        "date": "08 Mei 2026",
+        "image": "https://picsum.photos/800/1200?random=706",
+        "video": "https://videos.pexels.com/video-files/8616750/8616750-hd_1080_1920_25fps.mp4",
+        "objectPosition": "center",
+        "metric": "42K views",
+        "comments": "830 komentar"
+      }
+    ],
+    "testimonials": [
+      {
+        "id": "testimonial-mpysqb0t-10ac4a1-1c8irnb",
+        "text": "I am very happy to study at Pelita Cemerlang. The teachers are kind, fun, and very patient in teaching.",
+        "author": "Jenifer Thendean",
+        "role": "Alumni | Landed At Singapore Institute of Management",
+        "photo": "/uploads/content/1780886869374-d5dc0455-4662-41c0-a948-27e7d209ba26.jpg"
+      },
+      {
+        "id": "alumni-reza",
+        "text": "My high school years at Pelita Cemerlang were the best foundation. I was equipped with critical thinking skills that are very useful in the college world.",
+        "author": "Reza Pratama",
+        "role": "Alumni",
+        "photo": "/uploads/content/1780886855007-d954d3d0-f89d-4384-993e-ac475656d68b.webp"
+      },
+      {
+        "id": "testimonial-mpystl98-1wm7qgm-17q1s1m",
+        "text": "I hope this school continues to improve in every area of education.",
+        "author": "Felix Halim",
+        "role": "Alumni | Hopes the school continues improving in every area of education",
+        "photo": "/uploads/content/1780886818670-cadadee4-00f3-46ed-bb3b-f3d0fd3e8140.webp"
+      }
+    ],
+    "alumniDestinations": [
+      {
+        "id": "alumni-itb",
+        "name": "Binus University Alam Sutera",
+        "image": "/uploads/content/1780887016737-ccf80cbd-9518-44b8-b0c4-bdcb9e57be1e.png"
+      },
+      {
+        "id": "alumni-ugm",
+        "name": "Singapore Institute of Management",
+        "image": "/uploads/content/1780887029868-8e15c141-9634-43c0-ab29-f8bbf5a94b6d.png"
+      },
+      {
+        "id": "alumni-ui",
+        "name": "Universitas Indonesia",
+        "image": "/uploads/content/1779437180433-c6b0f859-1b67-4863-a101-4c04f12da3c1.png"
+      }
+    ],
+    "contactInfo": {
+      "address": "Jl.Perdana No.8",
+      "phone": "+62 (021) 1234-5678",
+      "email": "hello@pelitacemerlang.sch.id",
+      "hours": "Monday - Friday: 07:00 - 16:00 WIB",
+      "facebookUrl": "https://www.facebook.com/pelitacemerlangschool/?locale=id_ID",
+      "instagramUrl": "https://www.instagram.com/pelitacemerlangschool?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "linkedinUrl": "https://www.linkedin.com/company/pelita-cemerlang-school/",
+      "youtubeUrl": "https://www.youtube.com/@PelitaCemerlang",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.8164836203273!2d109.3421480740391!3d-0.05497723551785519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e1d5997093c64bb%3A0x1ddc1b259a7d381d!2sPelita%20Cemerlang%20School!5e0!3m2!1sen!2sid!4v1779435467815!5m2!1sen!2sid"
+    },
+    "footer": {
+      "description": "Educating the younger generation with global insights, high integrity, and a spirit of continuous innovation."
+    },
+    "globalConfig": {
+      "headerLogo": "/images/logo.png",
+      "footerLogo": "",
+      "activeMenus": {
+        "nav.home": true,
+        "nav.about": true,
+        "nav.academic": true,
+        "nav.facilities": true,
+        "nav.achievements": true,
+        "nav.mediacenter": true,
+        "nav.information": true,
+        "/news": false
+      }
+    },
+    "updatedAt": "2026-06-08T08:04:43.306Z"
+  }
+}

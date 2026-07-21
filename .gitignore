@@ -13,9 +13,9 @@ out/
 .env.production.local
 .env.production
 
-# User-generated content (editable via admin)
-content/
-public/uploads/
+# User-generated content — DO NOT ignore (needed for Codespace/CI)
+# content/           # REMOVED: site-content.json must be tracked across environments
+# public/uploads/    # REMOVED: uploaded images must be tracked across environments
 
 # Build cache
 tsconfig.tsbuildinfo
@@ -34,6 +34,11 @@ dev-*.log
 
 # Credentials (NEVER commit)
 akunpelita.txt
+
+# Large media files (exceeds GitHub's 100MB limit)
+public/uploads/content/1781493563178-142b2c23-a597-4ab1-978e-47b7a01fbf26.mp4
+public/uploads/content/1781493636784-f3122151-825e-4252-8135-093ef28da033.mp4
+public/uploads/content/1781509028566-8d25df0f-366c-43c3-85b6-b36ec2092d8a.mp4
 
 # OS files
 .DS_Store
