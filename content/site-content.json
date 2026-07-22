@@ -4,7 +4,7 @@
       "home": {
         "id": "home",
         "heroTitle": "Pelita Cemerlang School",
-        "heroSubtitle": "Be Bright and IMPACTFUL for Others",
+        "heroSubtitle": "Be Bright",
         "heroBgImage": "/images/hero-g.jpg",
         "heroBgImages": [
           "/images/hero-g.jpg",
@@ -1355,7 +1355,7 @@
         "/news": false
       }
     },
-    "updatedAt": "2026-06-15T07:37:24.584Z"
+    "updatedAt": "2026-07-22T15:05:20.997Z"
   },
   "en": {
     "pages": {
